@@ -60,6 +60,52 @@ falsa, culpa ("você ainda está cometendo esse erro?").
 - **Paralelismo excessivo** — três frases de comprimento idêntico em sequência.
 - **Autorreferência** — "nesse roteiro eu vou te explicar", "como eu disse".
 
+### O vício de fundo: antítese e punchline
+
+As duas estruturas abaixo são a raiz de quase todo texto com cara de IA. Proibir
+só as fórmulas conhecidas não resolve, porque elas se disfarçam. Reconheça o
+movimento, não a frase.
+
+**1. Negação-inversão.** Montar a frase derrubando uma coisa para levantar outra.
+Conta como dualismo mesmo sem as palavras "é sobre".
+
+❌ "Não é o seu busto." · "A versão de passarela não serve. Essa serve." ·
+"O problema não é você, é a modelagem." · "Menos tendência, mais estilo."
+✅ "Aquele X que abre entre os botões é altura de botão errada." ·
+"Essa é a versão da tendência que funciona numa terça."
+
+Afirme a coisa certa e pare. A pessoa não precisa que você derrube a errada antes.
+
+**2. Fecho em fragmento.** Terminar bloco ou frase num pedaço curto, sem sujeito
+ou sem complemento, para criar batida.
+
+❌ "...e você sente." · "...e pronto." · "...simples assim." · "Só isso." ·
+"Mesma silhueta, mobilidade de calça." · "Então o seu conjunto é o outro."
+✅ Frase inteira, com sujeito, verbo e complemento, que termina porque a
+informação acabou.
+
+**3. Par e trio rítmico de verbos.** "Veste e sente", "anda, senta, entra no
+carro", "escolhe, prova, aprova". Enumeração cadenciada é escrita de slogan.
+Se precisar listar ações, liste de um jeito desigual: "a saia abre quando você
+anda e quando senta".
+
+**4. Cena fabricada com precisão falsa.** "Num dia em que você acordou às seis e
+meia" · "você sai do escritório às seis com trinta graus". Detalhe inventado
+para soar íntimo. Use a situação sem cravar o número: "num dia corrido",
+"no fim da tarde de outubro".
+
+**5. Telegráfico.** Frase sem verbo, montada por vírgula, com ritmo de legenda de
+campanha. "Mesmo corpo, mesmo tamanho, botão em outro lugar."
+
+### Teste do fecho
+
+Leia a última frase de cada bloco isolada. Se ela funcionaria estampada numa
+camiseta, ou se ela existe para dar a batida final e não para entregar
+informação nova, corte e reescreva.
+
+Fala real é desigual. Tem frase longa seguida de frase média, tem subordinada,
+tem "aí" e "então". Não tem simetria. Escreva assim.
+
 ### Palavras e expressões
 mergulhe · desvende · descubra o segredo · o pulo do gato · transforme seu
 guarda-roupa · eleve seu look · eleve seu estilo · no mundo de hoje · nos dias de

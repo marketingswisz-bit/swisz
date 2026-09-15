@@ -108,8 +108,20 @@ de entregar qualquer roteiro:
   pontos, escreva dois. Se são cinco, escreva cinco.
 - **Frase de efeito no fecho.** Não termine com sentença de impacto, aforismo,
   ou eco poético do começo. Termine com o CTA e pare.
-- **Dualismo.** Nada de "não é sobre X, é sobre Y", "mais do que A, é B",
-  "não se trata de..., e sim de...". Afirme direto.
+- **Dualismo e negação-inversão.** Nada de "não é sobre X, é sobre Y", "mais do
+  que A, é B", "não se trata de..., e sim de...". E também nada de derrubar uma
+  coisa para levantar outra sem essas palavras: "Não é o seu busto.", "A versão
+  de passarela não serve. Essa serve." é o mesmo vício disfarçado. Afirme a
+  coisa certa e siga.
+- **Fecho em fragmento.** Não termine bloco ou frase num pedaço curto para dar
+  batida: "...e você sente", "...e pronto", "simples assim", "só isso". Frase
+  inteira, que acaba porque a informação acabou.
+- **Par e trio rítmico de verbos.** "Veste e sente", "anda, senta, entra no
+  carro". Enumeração cadenciada é slogan, não fala.
+- **Telegráfico.** Frase sem verbo montada por vírgula, com ritmo de legenda de
+  campanha: "Mesmo corpo, mesmo tamanho, botão em outro lugar."
+- **Cena fabricada com número falso.** "Num dia em que você acordou às seis e
+  meia", "trinta graus às seis da tarde". Detalhe inventado para soar íntimo.
 - **"Não apenas... mas também".** Corte.
 - **Pergunta retórica em série** para criar suspense falso.
 - **Vocabulário de IA:** mergulhe, desvende, descubra o segredo, transforme seu
@@ -121,7 +133,12 @@ de entregar qualquer roteiro:
 - **Elogio vazio à cliente** ("você é incrível do jeito que é") que não entrega
   informação nenhuma.
 
-Escreva torto e humano antes de escrever redondo e artificial.
+**Teste do fecho, obrigatório antes de entregar:** leia isolada a última frase de
+cada bloco do roteiro. Se ela funcionaria estampada numa camiseta, ou se existe
+para dar a batida final em vez de entregar informação, reescreva.
+
+Fala real é desigual: frase longa depois de frase média, subordinada, "aí",
+"então". Não tem simetria. Escreva assim, mesmo que fique menos bonito.
 
 ## Quando você não sabe, você pergunta
 
