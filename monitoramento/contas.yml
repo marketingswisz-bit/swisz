@@ -1,0 +1,143 @@
+# Perfis monitorados pela rotina diária de análise de conteúdo.
+#
+# tier — define o papel da conta na leitura de difusão de tendência:
+#   farol        onde a tendência aparece primeiro (mídia, marca premium, vanguarda)
+#   traducao     quem traduz a tendência para a mulher real (criadoras de estilo)
+#   concorrente  disputa a mesma cliente e a mesma faixa de preço da Swisz
+#   massa        varejo grande; quando chega aqui, a tendência já é mainstream
+#
+# status — confirmada | a_validar | invalida
+#   'a_validar' são sugestões deste agente ainda não verificadas na API.
+#   A coleta marca sozinha como 'invalida' o handle que não resolve
+#   (não existe, ou não é conta Business/Creator — a API não lê conta pessoal).
+#
+# Edite à vontade: adicione, remova, mude tier. A rotina lê este arquivo todo dia.
+
+versao: 1
+
+contas:
+
+  # ---------- Indicadas pela Swisz ----------
+
+  - handle: stealthelook
+    tier: farol
+    nota: Maior portal de moda do Brasil. Pauta o que vira assunto na semana.
+    status: confirmada
+
+  - handle: oqvestir
+    tier: farol
+    nota: Multimarca premium. Antecipa peça e styling que descem de faixa depois.
+    status: confirmada
+
+  - handle: nativozza
+    tier: farol
+    nota: Criadora com marca própria. Bom sinal de peça que vira desejo.
+    status: confirmada
+
+  - handle: amaro
+    tier: concorrente
+    nota: E-commerce de moda feminina com produção própria. Concorrente mais direto.
+    status: confirmada
+
+  - handle: martinaoficial
+    tier: concorrente
+    status: confirmada
+
+  - handle: lvstore
+    tier: concorrente
+    status: confirmada
+
+  - handle: passaportefashionista
+    tier: traducao
+    status: confirmada
+
+  - handle: biazuquim
+    tier: traducao
+    status: confirmada
+
+  - handle: amopetitrose
+    tier: traducao
+    status: confirmada
+
+  - handle: raquetalitastyle
+    tier: traducao
+    status: confirmada
+
+  - handle: joyalano_
+    tier: traducao
+    status: confirmada
+
+  # ---------- Referência da própria casa ----------
+  # Entra na coleta para comparar o desempenho da Swisz contra o painel.
+  # Sem isso, a análise diz o que o mercado fez e não diz o que a Swisz deixou passar.
+
+  - handle: swiszoficial
+    tier: casa
+    nota: Perfil da Swisz. Serve de linha de base, não de fonte de pauta.
+    status: confirmada
+
+  # ---------- Sugestões deste agente (validar na primeira coleta) ----------
+  # Critério: mesma cliente (mulher que trabalha, corpo real, ticket acessível),
+  # ou papel claro de farol/massa que o painel atual não cobre.
+
+  - handle: farmrio
+    tier: farol
+    nota: Estampa e cor. Define paleta de verão no Brasil antes das outras.
+    status: a_validar
+
+  - handle: shoulder
+    tier: concorrente
+    nota: Alfaiataria e look de trabalho — categoria central da Swisz.
+    status: a_validar
+
+  - handle: animale
+    tier: farol
+    nota: Modelagem e caimento premium. Farol de alfaiataria feminina.
+    status: a_validar
+
+  - handle: lezalez
+    tier: concorrente
+    nota: Moda feminina nacional, faixa de preço próxima.
+    status: a_validar
+
+  - handle: dressto
+    tier: concorrente
+    status: a_validar
+
+  - handle: renner
+    tier: massa
+    nota: Sinal de mainstream. Tendência que chega aqui já passou do pico.
+    status: a_validar
+
+  - handle: cea
+    tier: massa
+    status: a_validar
+
+  - handle: riachuelo
+    tier: massa
+    status: a_validar
+
+  - handle: camilacoutinho
+    tier: farol
+    nota: Garotas Estúpidas. Criadora de maior alcance de moda no país.
+    status: a_validar
+
+  - handle: lalanoleto
+    tier: traducao
+    status: a_validar
+
+  - handle: helenalunardelli
+    tier: traducao
+    status: a_validar
+
+  - handle: voguebrasil
+    tier: farol
+    nota: Editorial. Útil para nomenclatura de tendência, fraco para pauta social.
+    status: a_validar
+
+# Quantos posts recentes puxar por conta em cada coleta.
+# 25 cobre ~2 semanas de um perfil ativo sem estourar limite de chamada.
+posts_por_conta: 25
+
+# Quantos dias de snapshot bruto guardar antes de podar.
+retencao_dias_bruto: 90

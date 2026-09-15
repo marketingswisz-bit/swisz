@@ -1,0 +1,24 @@
+{
+  "versao": 1,
+  "atualizado_em": null,
+  "observacao": "Registro vivo dos temas de conteúdo. Mantido pela skill analise-diaria. O slug de cada tema é permanente: é ele que permite comparar hoje com ontem. Renomear slug quebra a série histórica — para mudar o nome visível, mude 'rotulo' e guarde o antigo em 'aliases'.",
+  "esquema": {
+    "slug": {
+      "rotulo": "nome legível do tema",
+      "aliases": ["rótulos anteriores, se o nome mudou"],
+      "categoria_swisz": ["categorias de produto que sustentam a pauta"],
+      "visto_primeiro_em": "AAAA-MM-DD",
+      "visto_por_ultimo_em": "AAAA-MM-DD",
+      "estado": "radar | subindo | pico | esfriando | dormente",
+      "pico_em": "AAAA-MM-DD ou null",
+      "score_pico": 0,
+      "historico": [
+        {"data": "AAAA-MM-DD", "score": 0, "calor": 0, "n_contas": 0, "tiers": [], "estado": "radar"}
+      ],
+      "ja_virou_pauta": [
+        {"data": "AAAA-MM-DD", "pauta": "P1", "titulo": "", "desenvolvida": false}
+      ]
+    }
+  },
+  "temas": {}
+}
