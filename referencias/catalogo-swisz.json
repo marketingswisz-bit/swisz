@@ -1,0 +1,2721 @@
+[
+ {
+  "rank_vendas": 1,
+  "nome": "Jaqueta Manga Longa Brasil",
+  "preco": 299.0,
+  "sku": "CASA49-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Chimpa e Ribana canelada",
+  "composicao": "100% poliéster",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 962,
+  "descricao": "Jaqueta esportiva da seleção, em chimpa com ribana canelada nos punhos. É leve, veste solto e serve pra assistir jogo e pra sair depois.",
+  "url": "https://www.swisz.com.br/produtos/jaqueta-manga-longa-brasil-13ncw/"
+ },
+ {
+  "rank_vendas": 2,
+  "nome": "Jaqueta Camurça Oversized",
+  "preco": 179.9,
+  "sku": "CASA51-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Scuba Suede, crepinho",
+  "composicao": "95% poliéster e 5% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 0,
+  "descricao": "Jaqueta oversized de camurça em scuba suede. O scuba é macio e tem corpo, então a jaqueta cai bem sem parecer dura.",
+  "url": "https://www.swisz.com.br/produtos/jaqueta-casaco-feminino-carmurca-oversized-d2rnk/"
+ },
+ {
+  "rank_vendas": 3,
+  "nome": "Macacão Pantalona com Bolsos",
+  "preco": 79.9,
+  "sku": "MACA111-4",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "P | comprimento: 143 cm",
+  "estoque": 780,
+  "descricao": "Macacão pantalona de viscolycra com bolsos. Tem bolsos funcionais, dá pra levar as chaves ou o celular.",
+  "url": "https://www.swisz.com.br/produtos/macacao-feminino-longo-pantalona-com-bolsos-cintura-ajustada-eux4w/"
+ },
+ {
+  "rank_vendas": 4,
+  "nome": "Blusa Ombro Plissado",
+  "preco": 45.9,
+  "sku": "BLUS154-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Alfaiataria Premium",
+  "composicao": "95% Poliéster, 5% Elastano",
+  "tamanhos": "M veste 38/40",
+  "estoque": 0,
+  "descricao": "Blusa de alfaiataria com plissado nos ombros e manga longa. O plissado dá estrutura ao ombro sem precisar de ombreira.",
+  "url": "https://www.swisz.com.br/produtos/blusa-ombro-plissado/"
+ },
+ {
+  "rank_vendas": 5,
+  "nome": "Macacão Drapeado Alça Dupla",
+  "preco": 78.9,
+  "sku": "MACA109-1",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "93% Viscose, 7% Elastano",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 82 cm | comprimento",
+  "estoque": 273,
+  "descricao": "Macacão com pregas, alça dupla e drapeado na cintura. O drapeado marca a cintura e disfarça a barriga ao mesmo tempo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/macacao-drapeado-alca-dupla/"
+ },
+ {
+  "rank_vendas": 6,
+  "nome": "Macacão Pantalona Ombro Só",
+  "preco": 78.9,
+  "sku": "MACA110-1",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/44 | comprimento da peça: 140 cm GG veste 46/",
+  "estoque": 1070,
+  "descricao": "Macacão pantalona de um ombro só, com alça torcida e drapeado. O drapeado marca a cintura e a perna pantalona alonga. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/macacao-feminino-longo-pantalona-um-ombro-so-regata-cintura-drapeada-vocfl/"
+ },
+ {
+  "rank_vendas": 7,
+  "nome": "Vestido Longo Duna",
+  "preco": 75.9,
+  "sku": "VEST11-5",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 38/44 | comprimento da peça: 137 cm",
+  "estoque": 862,
+  "descricao": "Vestido longo de um ombro só, com fenda e amarração nas costas. A fenda facilita andar e a amarração deixa você ajustar. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-duna/"
+ },
+ {
+  "rank_vendas": 8,
+  "nome": "Lenço Estampado Bolinhas",
+  "preco": 129.9,
+  "sku": "LENC3-2",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "Poliéster",
+  "composicao": "",
+  "tamanhos": "Único, veste 36 a 42",
+  "estoque": 0,
+  "descricao": "Lenço estampado de bolinhas, o poá clássico em versão colorida. É leve, macio e tem bom caimento para amarrar no pescoço, na cabeça ou na alça da bolsa.",
+  "url": "https://www.swisz.com.br/produtos/lenco-estampado-fashion-bolinhas-colorido-1qjzm/"
+ },
+ {
+  "rank_vendas": 9,
+  "nome": "Vestido Poá Tomara Que Caia",
+  "preco": 84.9,
+  "sku": "VEST292-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Crepinho",
+  "composicao": "96% Poliéster | 4% Elastano",
+  "tamanhos": "P | M | G | GG",
+  "estoque": 1174,
+  "descricao": "Vestido longo tomara que caia de poá, com corpete alongado e saia ampla. O corpete sustenta o busto, então a peça fica firme sem precisar de alça. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-poa-tomara-que-caia/"
+ },
+ {
+  "rank_vendas": 10,
+  "nome": "Vestido Assimétrico Drapeado",
+  "preco": 84.9,
+  "sku": "VEST277-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 130cm",
+  "estoque": 411,
+  "descricao": "Vestido com gola alta, cintura marcada e corte assimétrico na barra. A assimetria dá movimento e deixa o visual moderno sem exagero.",
+  "url": "https://www.swisz.com.br/produtos/vestido-assimetrico-drapeado/"
+ },
+ {
+  "rank_vendas": 11,
+  "nome": "Poncho Bico Assimétrico",
+  "preco": 79.9,
+  "sku": "PONC3-8",
+  "categorias": [
+   "kimonos e ponchos"
+  ],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "único, com 18 cores pra escolher.",
+  "estoque": 3069,
+  "descricao": "Poncho de tricô com barra em bico e manga longa. A modelagem é ampla, veste bem em corpos diferentes e não aperta em lugar nenhum. O tricô é macio e não coça.",
+  "url": "https://www.swisz.com.br/produtos/poncho-bico-assimetrico/"
+ },
+ {
+  "rank_vendas": 12,
+  "nome": "Blusa Tomara que Caia Peplum",
+  "preco": 59.9,
+  "sku": "BLUS103-3",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% poliéster, 4% elastano",
+  "tamanhos": "P veste 36",
+  "estoque": 70,
+  "descricao": "Bata tomara que caia com babado peplum na cintura. Tem bojo, que é o que segura a peça sem alça. O peplum disfarça o quadril e marca a cintura.",
+  "url": "https://www.swisz.com.br/produtos/blusa-peplum-hiti5/"
+ },
+ {
+  "rank_vendas": 13,
+  "nome": "Vestido Longo Princesa",
+  "preco": 78.9,
+  "sku": "VEST278-10",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Duna Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 135cm",
+  "estoque": 411,
+  "descricao": "Vestido longo com saia ampla e bolsos. Tem bolsos funcionais, dá pra levar o celular e o batom sem precisar de bolsa na mão.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-princesa/"
+ },
+ {
+  "rank_vendas": 14,
+  "nome": "Blusa Regata Botões",
+  "preco": 39.9,
+  "sku": "BLUS25-12",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Malha bastante Elástica",
+  "composicao": "",
+  "tamanhos": "Único veste 36 a 42",
+  "estoque": 328,
+  "descricao": "Regata de malha elástica com golinha e botões aplicados no ombro. A malha acompanha o corpo e volta ao lugar, não fica bamba depois de algumas horas.",
+  "url": "https://www.swisz.com.br/produtos/blusa-regata-botoes/"
+ },
+ {
+  "rank_vendas": 15,
+  "nome": "Polo Tricot Manga Longa",
+  "preco": 149.9,
+  "sku": "BLUS170-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Tricot",
+  "composicao": "86% Acrílico e 14% Poliéster",
+  "tamanhos": "Único / GG",
+  "estoque": 0,
+  "descricao": "Polo de tricô listrado com gola clássica e manga longa. O tricô é macio, aquece na medida e não coça.",
+  "url": "https://www.swisz.com.br/produtos/blusa-polo-tricot-listrada-1mccs/"
+ },
+ {
+  "rank_vendas": 16,
+  "nome": "Blusa Cropped Oversized Brasil",
+  "preco": 109.9,
+  "sku": "CROP213-4",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Meia malha e ribana",
+  "composicao": "98% algodão 2% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 12,
+  "descricao": "Camiseta cropped oversized da seleção, em meia malha com algodão. O algodão respira, então dá pra usar o dia inteiro no calor.",
+  "url": "https://www.swisz.com.br/produtos/blusa-cropped-feminino-camiseta-oversized-copa-do-mundo-brasil-2026-tqiy3/"
+ },
+ {
+  "rank_vendas": 17,
+  "nome": "Conjunto Cropped Top Brasil",
+  "preco": 109.9,
+  "sku": "CROP209-1",
+  "categorias": [
+   "conjuntos"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% poliéster 4% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 2293,
+  "descricao": "Conjunto de cropped e top da seleção, pra Copa de 2026. As duas peças vêm juntas, então você não precisa acertar combinação.",
+  "url": "https://www.swisz.com.br/produtos/conjunto-feminino-cropped-brasil-e-top-amarracao-alcas-finas-copa-do-mundo-59gov/"
+ },
+ {
+  "rank_vendas": 18,
+  "nome": "Vestido Rodado Poá",
+  "preco": 89.9,
+  "sku": "VEST289-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Crepe Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 1225,
+  "descricao": "Vestido rodado com decote halter e estampa de poá. O rodado dá movimento e disfarça o quadril. Tem bojo. O crepe é leve e fluido.",
+  "url": "https://www.swisz.com.br/produtos/vestido-rodado-poa/"
+ },
+ {
+  "rank_vendas": 19,
+  "nome": "Blusa Assimétrica",
+  "preco": 49.9,
+  "sku": "BLUS159-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 146,
+  "descricao": "Blusa de um ombro só com babados e caimento fluido. O suplex acompanha o corpo com elasticidade. O ombro livre pede sutiã sem alça.",
+  "url": "https://www.swisz.com.br/produtos/blusa-assimetrica/"
+ },
+ {
+  "rank_vendas": 20,
+  "nome": "Macaquinho Soltinho Frente Única",
+  "preco": 129.9,
+  "sku": "CONJ8-3",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento do vestido: 81 cm | comprime",
+  "estoque": 3533,
+  "descricao": "Macaquinho frente única com short embaixo e caimento soltinho. A frente cai como vestido e o short fica escondido, então você senta e dança à vontade.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-bruna-5uh0j/"
+ },
+ {
+  "rank_vendas": 21,
+  "nome": "Macacão Drapeado Pantalona",
+  "preco": 78.9,
+  "sku": "MACA104-2",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% Viscose, 4% Elastano",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 129 cm",
+  "estoque": 882,
+  "descricao": "Macacão pantalona sem manga, com drapeado no busto. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/macacao-drapeado-pantalona/"
+ },
+ {
+  "rank_vendas": 22,
+  "nome": "Jaqueta Bomber Courino Oversized",
+  "preco": 199.9,
+  "sku": "CASA53-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Courino e Crepinho",
+  "composicao": "97% poliéster 3% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 0,
+  "descricao": "Jaqueta bomber oversized em courino com detalhe em crepinho. A modelagem oversized veste bem em corpos diferentes e ainda cabe uma blusa grossa embaixo.",
+  "url": "https://www.swisz.com.br/produtos/jaqueta-couro-oversized-5bfi8/"
+ },
+ {
+  "rank_vendas": 23,
+  "nome": "Camisa Chemise Manga Bufante",
+  "preco": 74.9,
+  "sku": "BLUS164-13",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Crepe Crambaia",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 23,
+  "descricao": "Chemise de gola V com manga bufante e transparência sutil. Por ser levemente transparente, pede um top ou body por baixo, e a gente tem vários que combinam.",
+  "url": "https://www.swisz.com.br/produtos/camisa-chemise-gola-v-manga-bufante-buag6/"
+ },
+ {
+  "rank_vendas": 24,
+  "nome": "Vestido Drapeado Regata",
+  "preco": 129.9,
+  "sku": "VEST276-2",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 130cm",
+  "estoque": 120,
+  "descricao": "Vestido longo regata com decote alto e caimento fluido. O suplex acompanha o corpo com naturalidade, não é justo nem largo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-drapeado-regata/"
+ },
+ {
+  "rank_vendas": 25,
+  "nome": "Vestido Chemise Babados Miley",
+  "preco": 69.9,
+  "sku": "VEST263-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Duna Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 83 cm | comprimento",
+  "estoque": 594,
+  "descricao": "Chemise com botões na frente, gola de camisa e manga bufante. Os botões abrem, então você escolhe o quanto quer mostrar da perna.",
+  "url": "https://www.swisz.com.br/produtos/vestido-chemise-babados-miley-wrklc/"
+ },
+ {
+  "rank_vendas": 26,
+  "nome": "Vestido Curto Babado Camadas",
+  "preco": 79.9,
+  "sku": "VEST310-3",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Romantic",
+  "composicao": "95% Poliéster e 5% Elastano",
+  "tamanhos": "P, M, G",
+  "estoque": 7,
+  "descricao": "Vestido curto regata com babados em camadas. As camadas dão movimento e disfarçam o quadril de quem quer isso. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-tule-regata-camadas-14g6a/"
+ },
+ {
+  "rank_vendas": 27,
+  "nome": "Cropped Canelado Costas Abertas",
+  "preco": 45.9,
+  "sku": "CROP205-2",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Ribana",
+  "composicao": "96% Poliéster 4% Elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 466,
+  "descricao": "Cropped regata de ribana com costas abertas e decote delicado. A ribana acompanha o corpo e volta ao lugar.",
+  "url": "https://www.swisz.com.br/produtos/cropped-feminino-canelado-frente-unica-costas-abertas-basico-n7p5y/"
+ },
+ {
+  "rank_vendas": 28,
+  "nome": "Pantalona Alfaiataria Wide Leg",
+  "preco": 78.9,
+  "sku": "CALC83-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Linho Premium",
+  "composicao": "70% Viscose, 30% Linho",
+  "tamanhos": "P veste 36M | veste 38/40G | veste 42GG | veste 44",
+  "estoque": 312,
+  "descricao": "Calça pantalona de linho com cintura estruturada e pregas na frente. O linho é fresco e a modelagem é alinhada, então serve pro calor sem perder a formalidade.",
+  "url": "https://www.swisz.com.br/produtos/calca-feminina-pantalona-alfaiataria-wide-leg-cintura-alta-social-1tave/"
+ },
+ {
+  "rank_vendas": 29,
+  "nome": "Vestido Estampado Alça Cruzada",
+  "preco": 139.9,
+  "sku": "VEST294-3",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Crepinho",
+  "composicao": "96% poliéster, 4% elastano",
+  "tamanhos": "Único | comprimento da peça: 130 cm",
+  "estoque": 9,
+  "descricao": "Vestido longo estampado com alças finas cruzadas, busto estruturado e costas livres. O busto estruturado sustenta e dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-estampado/"
+ },
+ {
+  "rank_vendas": 30,
+  "nome": "Macacão Tiras nas Costas",
+  "preco": 89.9,
+  "sku": "MACA108-1",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 208,
+  "descricao": "Macacão longo pantalona com tiras nas costas. As tiras desenham as costas e a perna pantalona alonga a silhueta. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/macacao-tiras-nas-costas/"
+ },
+ {
+  "rank_vendas": 31,
+  "nome": "Biquíni Concha",
+  "preco": 59.9,
+  "sku": "BIQU3-5",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "P veste 36 | calcinha: 21 cm | busto: 17 cm",
+  "estoque": 1071,
+  "descricao": "Biquíni de alcinha com bojo e amarração ajustável. A amarração funciona de fato, você aperta do jeito que ficar melhor no seu corpo.",
+  "url": "https://www.swisz.com.br/produtos/biquini-concha/"
+ },
+ {
+  "rank_vendas": 32,
+  "nome": "Vestido Longo Basic",
+  "preco": 78.9,
+  "sku": "VEST281-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 76,
+  "descricao": "Vestido longo estilo sereia, justo até o joelho e solto embaixo. O suplex modela sem apertar, então é justo confortável e não justo sofrido.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-basic/"
+ },
+ {
+  "rank_vendas": 33,
+  "nome": "Blusa Maggy Manga Bufante",
+  "preco": 49.9,
+  "sku": "BLUS143-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Crepe Importado",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 42 cm | comprimento",
+  "estoque": 0,
+  "descricao": "Blusa com decote cruzado, manga bufante e elástico na cintura. O elástico marca a cintura sem apertar e o decote cruzado valoriza o colo.",
+  "url": "https://www.swisz.com.br/produtos/blusa-maggy-manga-bufante/"
+ },
+ {
+  "rank_vendas": 34,
+  "nome": "Macacão Pantalona Tomara Que Caia",
+  "preco": 74.9,
+  "sku": "MACA107-2",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "P veste 36 | comprimento da peça: 120 cm",
+  "estoque": 102,
+  "descricao": "Macacão longo tomara que caia com pala na frente e perna pantalona. A pala sustenta o busto, então a peça fica firme sem precisar de alça. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/macacao-pantalona-tomara-que-caia/"
+ },
+ {
+  "rank_vendas": 35,
+  "nome": "Cropped T-shirt Larguinho",
+  "preco": 32.9,
+  "sku": "CROP51-24",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Viscolycra Importada",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da manga: 18cm | comprimento da ",
+  "estoque": 124,
+  "descricao": "Cropped estilo t-shirt, larguinho, em viscolycra importada. A modelagem solta é confortável e não marca nada, bom pra quem não gosta de peça justa.",
+  "url": "https://www.swisz.com.br/produtos/cropped-tshirt-larguinho/"
+ },
+ {
+  "rank_vendas": 36,
+  "nome": "Saia Midi Courino Rodada",
+  "preco": 59.9,
+  "sku": "SAIA55-4",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 86cm",
+  "estoque": 767,
+  "descricao": "Saia midi rodada em courino, com passantes pra cinto. O courino é estruturado, então a saia mantém o volume rodado sem precisar de anágua.",
+  "url": "https://www.swisz.com.br/produtos/saia-midi-couro-rodada/"
+ },
+ {
+  "rank_vendas": 37,
+  "nome": "Vestido Cosmopolitan",
+  "preco": 78.9,
+  "sku": "VEST266-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "92% Poliéster, 8% Elastano",
+  "tamanhos": "P | comprimento da peça: 125 cm | comprimento da manga: 53 c",
+  "estoque": 729,
+  "descricao": "Vestido longo ombro a ombro, com fenda lateral. O suplex power tem alta elasticidade, ajusta ao corpo e sustenta sem precisar de modelador por baixo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-cosmopolitan/"
+ },
+ {
+  "rank_vendas": 38,
+  "nome": "Blusa Babylook Drapeada",
+  "preco": 69.9,
+  "sku": "BLUS152-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "92% Poliéster, 8% Elastano",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 60 cm | comprimento da ",
+  "estoque": 1274,
+  "descricao": "Baby Look com drapeado na lateral e detalhe no ombro. O suplex tem elastano, acompanha o corpo e volta ao lugar depois da lavagem.",
+  "url": "https://www.swisz.com.br/produtos/blusa-babylook-drapeada/"
+ },
+ {
+  "rank_vendas": 40,
+  "nome": "Vestido Longo Manhattan",
+  "preco": 129.9,
+  "sku": "VEST267-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "- M: Comprimento da peça 120 cm, comprimento da manga 60 cm",
+  "estoque": 13,
+  "descricao": "Vestido longo de manga longa em suplex com elastano. O suplex acompanha o corpo, tem boa elasticidade e não fica transparente.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-longo-manga-longa-manhattan-inverno-1izcw/"
+ },
+ {
+  "rank_vendas": 41,
+  "nome": "Pijama Cetim Camisa e Shorts",
+  "preco": 94.9,
+  "sku": "CONJ119-1",
+  "categorias": [
+   "pijamas"
+  ],
+  "tecido": "Cetim",
+  "composicao": "97% poliéster e 3% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 20,
+  "descricao": "Pijama de cetim com camisa e shorts. O cetim é fresco, desliza no lençol e não gruda no corpo à noite. As duas peças vêm juntas.",
+  "url": "https://www.swisz.com.br/produtos/conjunto-pijama-cetim-bicolor-fsg48/"
+ },
+ {
+  "rank_vendas": 42,
+  "nome": "Jaqueta Cropped Veludo Canelado",
+  "preco": 99.9,
+  "sku": "CASA50-2",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Veludo Cotelê",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 66,
+  "descricao": "Jaqueta cropped de veludo cotelê, estruturada. O cotelê tem textura e dá corpo à peça, não fica murcha.",
+  "url": "https://www.swisz.com.br/produtos/jaqueta-cropped-veludo-canelado-yp8o4/"
+ },
+ {
+  "rank_vendas": 43,
+  "nome": "Calça Jogger Moletom Brasil",
+  "preco": 149.9,
+  "sku": "CALC82-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Chimpa",
+  "composicao": "100% poliéster",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 948,
+  "descricao": "Calça jogger da seleção em chimpa, com modelagem soltinha. É confortável pra assistir jogo e apresentável pra sair depois.",
+  "url": "https://www.swisz.com.br/produtos/calca-jogger-moletom-colecao-brasil-2026/"
+ },
+ {
+  "rank_vendas": 44,
+  "nome": "Top Cropped Copa 2 Peças",
+  "preco": 99.9,
+  "sku": "CROP210-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% poliéster 4% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 2175,
+  "descricao": "Conjunto de dois tops da seleção, pra Copa de 2026. São duas peças com recortes diferentes, então você varia o look sem comprar de novo.",
+  "url": "https://www.swisz.com.br/produtos/top-cropped-blusinha-2-pecas-alca-dupla-regata-copa-2026-r1lvu/"
+ },
+ {
+  "rank_vendas": 45,
+  "nome": "Vestido Tomara que Caia Drapeado",
+  "preco": 79.9,
+  "sku": "VEST311-2",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Tule",
+  "composicao": "96% poliéster 4% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 14,
+  "descricao": "Vestido curto tomara que caia de tule, com babados que dão movimento. O drapeado no corpo ajusta a peça e é o que a segura no lugar, já que ela não tem alça.",
+  "url": "https://www.swisz.com.br/produtos/vestido-curto-feminino-tomara-que-caia-drapeado-babados-18d0d/"
+ },
+ {
+  "rank_vendas": 46,
+  "nome": "Vestido Sereia Multiformas",
+  "preco": 99.9,
+  "sku": "VEST298-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Romantic",
+  "composicao": "",
+  "tamanhos": "P | comprimento da peça: 145cm",
+  "estoque": 262,
+  "descricao": "Vestido longo sereia com amarração multiformas no busto. Você amarra de várias maneiras, então o mesmo vestido serve pra mais de um evento. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-longo-sereia-um-ombro-so-decote-amarracao-multiformas-1ccdw/"
+ },
+ {
+  "rank_vendas": 47,
+  "nome": "Kimono Saída De Praia",
+  "preco": 74.9,
+  "sku": "KIMO7-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Cambraia",
+  "composicao": "96% Poliéster 4% Elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 39,
+  "descricao": "Kimono longo de saída de praia em cambraia com leve transparência. Vai por cima do biquíni e resolve o caminho até o quiosque com elegância.",
+  "url": "https://www.swisz.com.br/produtos/kimono-saida-de-praia/"
+ },
+ {
+  "rank_vendas": 48,
+  "nome": "Conjunto Saída de Praia Amarração",
+  "preco": 59.9,
+  "sku": "CONJ117-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "único que veste P, M e G, com 3 cores pra escolher.",
+  "estoque": 243,
+  "descricao": "Conjunto de saída de praia com cropped ombro a ombro de manga ampla e saia pareô de amarrar.",
+  "url": "https://www.swisz.com.br/produtos/conjunto-manga-morcego/"
+ },
+ {
+  "rank_vendas": 49,
+  "nome": "Vestido Paetê Assimétrico",
+  "preco": 99.9,
+  "sku": "VEST296-3",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Malha Paetê",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "P veste 36 | comprimento da peça: 116cm",
+  "estoque": 3,
+  "descricao": "Vestido longo de um ombro só com busto em paetê. O brilho fica concentrado em cima e a saia acompanha lisa, o que equilibra. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-paete-assimetrico/"
+ },
+ {
+  "rank_vendas": 50,
+  "nome": "Calça Aladim Chiffon",
+  "preco": 64.9,
+  "sku": "CALC79-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Suplex Romantic",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 101cm",
+  "estoque": 100,
+  "descricao": "Calça aladin de chiffon com shortinho interno. O short resolve a transparência, então você usa sem preocupação.",
+  "url": "https://www.swisz.com.br/produtos/calca-aladin-chiffon/"
+ },
+ {
+  "rank_vendas": 51,
+  "nome": "Cropped Acetinado Frente Única",
+  "preco": 39.9,
+  "sku": "CROP203-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Crepe Acetinado Premium",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 40 cm",
+  "estoque": 491,
+  "descricao": "Cropped de decote halter em crepe acetinado. O acetinado tem brilho suave, que funciona tanto de dia quanto à noite.",
+  "url": "https://www.swisz.com.br/produtos/cropped-acetinado-frente-unica/"
+ },
+ {
+  "rank_vendas": 52,
+  "nome": "Saia Longa Cetim",
+  "preco": 69.9,
+  "sku": "SAIA71-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Cetim",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 270,
+  "descricao": "Saia longa de cetim com cintura alta. O cetim é leve e tem aquele movimento que valoriza a caminhada.",
+  "url": "https://www.swisz.com.br/produtos/saia-longa-cetim/"
+ },
+ {
+  "rank_vendas": 53,
+  "nome": "Cropped Tricot Frente Única",
+  "preco": 45.9,
+  "sku": "CROP145-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 33 cm",
+  "estoque": 355,
+  "descricao": "Cropped de tricô com alças cruzadas nas costas. O tricô é encorpado e não deixa transparecer.",
+  "url": "https://www.swisz.com.br/produtos/cropped-cruz-trico-modal/"
+ },
+ {
+  "rank_vendas": 54,
+  "nome": "Blusa Canelada Botões",
+  "preco": 39.9,
+  "sku": "BLUS29-39",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Malha Canelada Grossa",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 2735,
+  "descricao": "Blusa de malha canelada encorpada, alongada o suficiente pra cobrir o quadril. Os botões laterais dão acabamento e tiram a peça do básico.",
+  "url": "https://www.swisz.com.br/produtos/blusa-canelada-botoes/"
+ },
+ {
+  "rank_vendas": 55,
+  "nome": "Blusa Manga Longa Drapeada",
+  "preco": 39.9,
+  "sku": "BLUS153-3",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Viscolycra Premium",
+  "composicao": "",
+  "tamanhos": "único | GG",
+  "estoque": 157,
+  "descricao": "Blusa de manga morcego em viscolycra. A modelagem é solta em cima e vai afinando, o que dá caimento bonito sem marcar o braço.",
+  "url": "https://www.swisz.com.br/produtos/blusa-manga-longa-drapeada/"
+ },
+ {
+  "rank_vendas": 56,
+  "nome": "Blusa Bata Ombro Vazado",
+  "preco": 45.9,
+  "sku": "BLUS1-42",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Viscolinho Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 49cm | comprimento da mang",
+  "estoque": 122,
+  "descricao": "Bata de viscolinho com manga bufante, gola alta e ombro vazado. O tecido é leve e fresco, bom pra quem não gosta de peça que esquenta.",
+  "url": "https://www.swisz.com.br/produtos/blusa-bata-manga-longa/"
+ },
+ {
+  "rank_vendas": 58,
+  "nome": "Colete Alongado Tricô Canelado",
+  "preco": 129.9,
+  "sku": "CASA56-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Tricot",
+  "composicao": "86% Acrílico e 14% Poliéster",
+  "tamanhos": "",
+  "estoque": 83,
+  "descricao": "Colete alongado de tricô canelado, sem mangas. O comprimento alongado cria linha vertical e alonga a silhueta. O canelado tem textura e cai bem.",
+  "url": "https://www.swisz.com.br/produtos/colete-tricot-basics-1gj8q/"
+ },
+ {
+  "rank_vendas": 59,
+  "nome": "Cinto Fivela Orgânica Dourada",
+  "preco": 25.9,
+  "sku": "CINT56-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "",
+  "estoque": 26,
+  "descricao": "Cinto com fivela orgânica dourada, de formato arredondado e contemporâneo. É o acessório que tira um look do básico sem gritar.",
+  "url": "https://www.swisz.com.br/produtos/cinto-fivela-organica-1srt5/"
+ },
+ {
+  "rank_vendas": 60,
+  "nome": "Jaqueta Courino Zíper Frontal",
+  "preco": 129.9,
+  "sku": "BLUS168-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Courino",
+  "composicao": "100% poliéster",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 10,
+  "descricao": "Jaqueta de courino com zíper frontal, bolsos e cintura ajustável. O ajuste na cintura afina a silhueta, o que a jaqueta de courino comum não faz.",
+  "url": "https://www.swisz.com.br/produtos/blusa-oversized-couro-peplum-18vq9/"
+ },
+ {
+  "rank_vendas": 63,
+  "nome": "Vestido Rodado Tule Drapeado",
+  "preco": 89.9,
+  "sku": "VEST302-3",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Tule Estampado",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 6,
+  "descricao": "Vestido curto de tule estampado com alças finas e drapeado no busto. O drapeado sustenta e valoriza o colo. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-rodado-tule-drapeado-l1puv/"
+ },
+ {
+  "rank_vendas": 64,
+  "nome": "Biquíni Fio Triângulo",
+  "preco": 79.9,
+  "sku": "BIQU4-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Suplex Romantic",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 293,
+  "descricao": "Biquíni de top triangular com alças finas. É o modelo clássico, que veste bem em corpos diferentes e não sai de moda. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/biquini-fio-triangulo-basics-1rz30/"
+ },
+ {
+  "rank_vendas": 65,
+  "nome": "Camisola Bolinhas Renda",
+  "preco": 129.9,
+  "sku": "VEST313-1",
+  "categorias": [
+   "pijamas"
+  ],
+  "tecido": "Liganete",
+  "composicao": "96% Poliéster 4% Elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 772,
+  "descricao": "Camisola de poá com decote em renda. A liganete é leve e o caimento soltinho, não gruda nem enrola durante a noite.",
+  "url": "https://www.swisz.com.br/produtos/pijama-camisola-feminino-estampa-bolinhas-alcas-finas-decote-renda-sensual-zabgt/"
+ },
+ {
+  "rank_vendas": 66,
+  "nome": "Vestido Midi Tule Ajustado",
+  "preco": 84.9,
+  "sku": "VEST306-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Tule estampado",
+  "composicao": "",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 95,
+  "descricao": "Vestido midi de tule estampado com decote slip e costas nuas. As costas nuas dispensam sutiã e o tule dá leveza sem transparência exagerada. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-midi-feminino-tule-alcas-finas-costas-nua-modelagem-ajustada-1svql/"
+ },
+ {
+  "rank_vendas": 67,
+  "nome": "Blusa Ombro Só Drapeada",
+  "preco": 79.9,
+  "sku": "BLUS165-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Suplex Romantic",
+  "composicao": "",
+  "tamanhos": "P | comprimento da peça: 50cm",
+  "estoque": 519,
+  "descricao": "Regata de um ombro só com drapeado na frente. O drapeado disfarça a barriga e o ombro livre dá o ponto de moda. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/blusa-feminina-regata-assimetrica-um-ombro-so-drapeado-16nh4/"
+ },
+ {
+  "rank_vendas": 68,
+  "nome": "Calça Aladim Cetim Amarração",
+  "preco": 69.9,
+  "sku": "CALC80-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Cetim",
+  "composicao": "96% Poliéster 4% Elastano",
+  "tamanhos": "Único | comprimento da peça: 106cm",
+  "estoque": 151,
+  "descricao": "Calça aladim de cetim com cós em bico e punho na barra. O cós em bico valoriza a cintura e o punho segura o volume embaixo.",
+  "url": "https://www.swisz.com.br/produtos/calca-aladim-cetim/"
+ },
+ {
+  "rank_vendas": 69,
+  "nome": "Vestido Longo Paetês",
+  "preco": 149.9,
+  "sku": "VEST297-2",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Malha Paetê",
+  "composicao": "",
+  "tamanhos": "M | G | GG",
+  "estoque": 5,
+  "descricao": "Vestido longo de um ombro só em paetê, com drapeados e fenda lateral. O drapeado disfarça e a fenda dá passagem pra andar. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-paetes/"
+ },
+ {
+  "rank_vendas": 70,
+  "nome": "Vestido Longo Drapeado",
+  "preco": 129.9,
+  "sku": "VEST291-4",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Duna",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "P veste 36",
+  "estoque": 244,
+  "descricao": "Vestido longo justo com drapeado e costas nuas. O drapeado disfarça e valoriza ao mesmo tempo. Tem bojo, e as costas nuas dispensam sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-drapeado/"
+ },
+ {
+  "rank_vendas": 71,
+  "nome": "Biquíni 3 Fivelas",
+  "preco": 59.9,
+  "sku": "BIQU2-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% poliéster, 4% elastano",
+  "tamanhos": "P | calcinha: 20 cm | busto: 13 cm",
+  "estoque": 0,
+  "descricao": "Biquíni com top de um ombro só e fivelas metálicas. As fivelas sustentam o busto e ainda são o detalhe da peça. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/biquini-3-fivelas-j0eah/"
+ },
+ {
+  "rank_vendas": 72,
+  "nome": "Camisa em Cetim",
+  "preco": 84.9,
+  "sku": "BLUS161-2",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Liso",
+  "composicao": "Cetim",
+  "tamanhos": "P veste 36 | comprimento da peça: não informado",
+  "estoque": 133,
+  "descricao": "Camisa de cetim com botões e modelagem clássica. O cetim tem toque suave e brilho discreto, então funciona no trabalho e à noite.",
+  "url": "https://www.swisz.com.br/produtos/camisa-em-cetim/"
+ },
+ {
+  "rank_vendas": 73,
+  "nome": "Vestido Babado Botões",
+  "preco": 78.9,
+  "sku": "VEST282-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Duna Linho Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 115cm",
+  "estoque": 124,
+  "descricao": "Vestido midi com babado nos ombros, botões na frente e cinto embutido. O cinto já vem na peça, então a cintura fica marcada e você não precisa procurar.",
+  "url": "https://www.swisz.com.br/produtos/vestido-babado-botoes/"
+ },
+ {
+  "rank_vendas": 74,
+  "nome": "Vestido Tiras nas Costas",
+  "preco": 78.9,
+  "sku": "VEST286-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 132 cm",
+  "estoque": 30,
+  "descricao": "Vestido longo sereia com decote em V, alças finas e tiras nas costas. As tiras desenham as costas, então vale prender o cabelo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-tiras-nas-costas/"
+ },
+ {
+  "rank_vendas": 75,
+  "nome": "Vestido Argola Estampado",
+  "preco": 84.9,
+  "sku": "VEST283-5",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 118cm",
+  "estoque": 0,
+  "descricao": "Vestido longo estampado com recortes na cintura e argola no busto. Os recortes marcam a cintura e a argola segura o olhar. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-argola-estampado/"
+ },
+ {
+  "rank_vendas": 76,
+  "nome": "Vestido Curto Laço",
+  "preco": 149.9,
+  "sku": "VEST254-1",
+  "categorias": [
+   "vestidos"
+  ],
+  "tecido": "Duna Premium",
+  "composicao": "",
+  "tamanhos": "M | comprimento da peça: 76 cm",
+  "estoque": 216,
+  "descricao": "Vestido curto com alças ajustáveis e laços removíveis. Você tira ou deixa os laços, então a peça muda de cara conforme a ocasião. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-curto-laco/"
+ },
+ {
+  "rank_vendas": 77,
+  "nome": "Camisa Social Com Bolsos",
+  "preco": 45.9,
+  "sku": "BLUS156-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Alfaiataria Premium",
+  "composicao": "95% Poliéster, 5% Elastano",
+  "tamanhos": "P veste 36",
+  "estoque": 119,
+  "descricao": "Camisa social de alfaiataria com bolsos na frente. O tecido tem elastano, então acompanha o movimento e não repuxa no botão do busto. Os bolsos são funcionais.",
+  "url": "https://www.swisz.com.br/produtos/camisa-social-com-bolsos/"
+ },
+ {
+  "rank_vendas": 78,
+  "nome": "Vestido Paetê Manga Tule",
+  "preco": 119.9,
+  "sku": "VEST274-1",
+  "categorias": [],
+  "tecido": "Paetê com Tule",
+  "composicao": "100% Poliéster",
+  "tamanhos": "M veste 38/40 | comprimento da peça: não informado",
+  "estoque": 238,
+  "descricao": "Vestido curto de paetê com manga de tule e gola alta. O paetê dá o brilho e o tule deixa a manga leve, sem esquentar. É ajustado ao corpo, tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-paete-manga-tule/"
+ },
+ {
+  "rank_vendas": 79,
+  "nome": "Calça Jogger Moletom",
+  "preco": 55.9,
+  "sku": "CALC10-6",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "moletom (primeira linha)",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 91 cm",
+  "estoque": 1824,
+  "descricao": "Calça jogger de moletom com bolso faca e cós com elástico. O moletom é de primeira linha, não embola nem afina depois de lavar.",
+  "url": "https://www.swisz.com.br/produtos/calca-jogger-moletom/"
+ },
+ {
+  "rank_vendas": 80,
+  "nome": "Casaco Bomber Cirrê",
+  "preco": 69.9,
+  "sku": "CASA7-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Cirrê Premium",
+  "composicao": "",
+  "tamanhos": "único, em preto.",
+  "estoque": 269,
+  "descricao": "Jaqueta bomber de cirrê, com zíper frontal, gola e brilho leve. O cirrê não amassa e é fácil de limpar.",
+  "url": "https://www.swisz.com.br/produtos/casaco-bomber-feminino-cirre/"
+ },
+ {
+  "rank_vendas": 81,
+  "nome": "Macaquinho Camadas Babados",
+  "preco": 78.9,
+  "sku": "MACA16-5",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscose",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da manga: 15cm | comprimento",
+  "estoque": 239,
+  "descricao": "Macaquinho curto de viscose com camadas e babados. As camadas dão movimento e disfarçam o quadril. A viscose é fresca, é peça de calor. Tem bojo embutido.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-camadas-babados/"
+ },
+ {
+  "rank_vendas": 82,
+  "nome": "Macacão Pantacourt Regata",
+  "preco": 69.9,
+  "sku": "MACA8-17",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolynho",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 114cm",
+  "estoque": 236,
+  "descricao": "Macacão pantacourt regata, com decote vazado. Tem bojo embutido. O viscolinho é fresco e leve, então aguenta dia quente sem grudar.",
+  "url": "https://www.swisz.com.br/produtos/macacao-pantacourt/"
+ },
+ {
+  "rank_vendas": 83,
+  "nome": "Vestido Curto Decote Profundo",
+  "preco": 129.9,
+  "sku": "VEST30-7",
+  "categorias": [],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 88 cm | comprimento",
+  "estoque": 1149,
+  "descricao": "Vestido curto com manga flare e frente drapeada. O drapeado na frente disfarça a barriga sem apertar. O crepe duna é leve e o caimento é fluido, bom pra calor.",
+  "url": "https://www.swisz.com.br/produtos/vestido-dori/"
+ },
+ {
+  "rank_vendas": 84,
+  "nome": "Macacão Longo Bengaline Botões",
+  "preco": 62.9,
+  "sku": "MACA44-6",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Bengaline Premium",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da manga: 6cm | comprimento da p",
+  "estoque": 77,
+  "descricao": "Macacão longo de bengaline com botões tartaruga e cinto na cintura. É um dos mais vendidos da loja. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/macacao-bengaline-boxs0/"
+ },
+ {
+  "rank_vendas": 85,
+  "nome": "Conjunto Basic Animal Print",
+  "preco": 59.9,
+  "sku": "CONJ32-1",
+  "categorias": [
+   "conjuntos"
+  ],
+  "tecido": "Malha Crepe Premium",
+  "composicao": "não informada",
+  "tamanhos": "M veste 38/40 | comprimento da manga: 17cm | comprimento da ",
+  "estoque": 4,
+  "descricao": "Conjunto de blusa e short em malha crepe, com detalhe de oncinha. As duas peças vêm juntas, então você não precisa acertar a combinação.",
+  "url": "https://www.swisz.com.br/produtos/conjunto-malha-basic-animal-print/"
+ },
+ {
+  "rank_vendas": 86,
+  "nome": "Jaqueta Courino Biker",
+  "preco": 119.9,
+  "sku": "CASA34-2",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Courino Importado",
+  "composicao": "",
+  "tamanhos": "M / G",
+  "estoque": 97,
+  "descricao": "Jaqueta biker de courino importado. O courino é macio e já sai confortável desde a primeira vez que você veste.",
+  "url": "https://www.swisz.com.br/produtos/casaco-jaqueta-couro-eco-biker/"
+ },
+ {
+  "rank_vendas": 87,
+  "nome": "Macaquinho Gola Alta",
+  "preco": 79.9,
+  "sku": "MACA74-8",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Crepinho Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 74cm | comprimento ",
+  "estoque": 626,
+  "descricao": "Macaquinho de gola alta com manga bufante e amarração nas costas. Tem bojo embutido. O crepinho é leve e fluido, bom pra dia quente mesmo com manga.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-gola-alta-cintura-plissada-94uj/"
+ },
+ {
+  "rank_vendas": 88,
+  "nome": "Cinto Fino Fivela Retangular",
+  "preco": 19.9,
+  "sku": "CINT20-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento total: 131 cm",
+  "estoque": 636,
+  "descricao": "Cinto fino de courino com fivela retangular. Por ser fino, ele marca a cintura sem disputar atenção com a roupa.",
+  "url": "https://www.swisz.com.br/produtos/cinto-fino-fivela-retangular-t50bu/"
+ },
+ {
+  "rank_vendas": 89,
+  "nome": "Saia Longa Courino Vazado",
+  "preco": 69.9,
+  "sku": "SAIA54-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 97cm",
+  "estoque": 126,
+  "descricao": "Saia longa de courino com fenda frontal e detalhe vazado. A fenda dá passagem pra andar sem prender a perna.",
+  "url": "https://www.swisz.com.br/produtos/saia-longa-couro/"
+ },
+ {
+  "rank_vendas": 90,
+  "nome": "Calça Saída de Praia Renda",
+  "preco": 69.9,
+  "sku": "CALC69-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Renda Guipir Premium",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 104 cm",
+  "estoque": 25,
+  "descricao": "Calça pantalona de renda guipir, pra usar por cima do biquíni. A renda é leve e transparente, feita pros dias de verão na praia e na piscina.",
+  "url": "https://www.swisz.com.br/produtos/calca-saida-de-praia-renda/"
+ },
+ {
+  "rank_vendas": 91,
+  "nome": "Macaquinho Drapeado Curto",
+  "preco": 69.9,
+  "sku": "MACA103-1",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolycra Premium",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 69cm",
+  "estoque": 31,
+  "descricao": "Macaquinho curto tomara que caia, com drapeado no busto. Tem bojo embutido, o que ajuda na sustentação já que a peça não tem alça.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-drapeado-curto/"
+ },
+ {
+  "rank_vendas": 92,
+  "nome": "Cinto Fino Passante Triplo",
+  "preco": 26.9,
+  "sku": "CINT30-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 131 cm",
+  "estoque": 349,
+  "descricao": "Cinto fino de courino com fivela dourada de passante triplo. Por ser fino, marca a cintura sem roubar atenção da roupa.",
+  "url": "https://www.swisz.com.br/produtos/cinto-fino-passante-triplo/"
+ },
+ {
+  "rank_vendas": 93,
+  "nome": "Blazer Max Estruturado Courino",
+  "preco": 89.9,
+  "sku": "CASA48-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Courino Premium -",
+  "composicao": "60% Poliuretano, 40% Poliéster -",
+  "tamanhos": "P | M | G | GG | Bojo e bolsos inclusos | Fácil de combinar ",
+  "estoque": 345,
+  "descricao": "Max blazer em courino, com recortes que estruturam a silhueta. Já vem com bojo e tem bolsos funcionais.",
+  "url": "https://www.swisz.com.br/produtos/casaco-max-blazer-estruturado-couro/"
+ },
+ {
+  "rank_vendas": 95,
+  "nome": "Cropped Manga Flare",
+  "preco": 69.9,
+  "sku": "BLUS56-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Viscolycra Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/40 | comprimento da peça: 42cm | comprimento ",
+  "estoque": 1017,
+  "descricao": "Cropped de viscolycra com manga flare. O tecido é macio e leve, bom pra dia quente. A manga flare dá movimento e equilibra com calça de cintura alta ou saia.",
+  "url": "https://www.swisz.com.br/produtos/cropped-manga-flare/"
+ },
+ {
+  "rank_vendas": 96,
+  "nome": "Blusa Cacharrel Manga Longa",
+  "preco": 55.9,
+  "sku": "BLUS5-58",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Viscolycra Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 53cm | comprimento da mang",
+  "estoque": 4402,
+  "descricao": "Cacharrel de viscolycra, com gola alta e manga longa. O tecido tem elasticidade e caimento, marca o corpo sem apertar.",
+  "url": "https://www.swisz.com.br/produtos/blusa-manga-comprida-cacharrel-q1jy/"
+ },
+ {
+  "rank_vendas": 97,
+  "nome": "Jaqueta Star - Courino",
+  "preco": 199.9,
+  "sku": "CASA54-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "",
+  "estoque": 258,
+  "descricao": "Jaqueta cropped feminina em courino com gola alta, fechamento em zíper e ajuste por cordão. Moderna, elegante e perfeita para looks cheios de estilo.",
+  "url": "https://www.swisz.com.br/produtos/jaqueta-star-courino/"
+ },
+ {
+  "rank_vendas": 98,
+  "nome": "Kit 2 Cintos Modelo Harmony - Branco/Marrom",
+  "preco": 78.9,
+  "sku": "KIT440-7",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 2,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Branco/Marrom por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-branco-marrom-unico-xn91u/"
+ },
+ {
+  "rank_vendas": 99,
+  "nome": "Kit 2 Cintos Modelo Harmony - Branco/Caramelo",
+  "preco": 78.9,
+  "sku": "KIT440-6",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 2,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Branco/Caramelo por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-branco-caramelo-unico-uia9t/"
+ },
+ {
+  "rank_vendas": 100,
+  "nome": "Kit 2 Cintos Modelo Harmony - Marrom/Nude",
+  "preco": 78.9,
+  "sku": "KIT440-5",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 3,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Marrom/Nude por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-marrom-nude-unico-1kz6b/"
+ },
+ {
+  "rank_vendas": 101,
+  "nome": "Kit 2 Cintos Modelo Harmony - Preto/Nude",
+  "preco": 78.9,
+  "sku": "KIT440-4",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 4,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Preto/Nude por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-preto-nude-unico-1bqli/"
+ },
+ {
+  "rank_vendas": 102,
+  "nome": "Kit 2 Cintos Modelo Harmony - Preto/Marrom",
+  "preco": 78.9,
+  "sku": "KIT440-3",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 3,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Preto/Marrom por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-preto-marrom-unico-1flfk/"
+ },
+ {
+  "rank_vendas": 103,
+  "nome": "Kit 2 Cintos Modelo Harmony - Preto/Branco",
+  "preco": 78.9,
+  "sku": "KIT440-2",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 2,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - Preto/Branco por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-preto-branco-unico-rx1jw/"
+ },
+ {
+  "rank_vendas": 104,
+  "nome": "Kit 2 Cintos Modelo Harmony - 2 Pretos",
+  "preco": 78.9,
+  "sku": "KIT440-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 6,
+  "descricao": "Compre online Kit 2 Cintos Modelo Harmony - 2 Pretos por R$78,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-2-cinto-fivela-organica-2preto-unico-1yblo/"
+ },
+ {
+  "rank_vendas": 105,
+  "nome": "Kit 3 Cintos Modelo Harmony - Branco/Caramelo/Preto",
+  "preco": 109.9,
+  "sku": "KIT441-5",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 2,
+  "descricao": "Compre online Kit 3 Cintos Modelo Harmony - Branco/Caramelo/Preto por R$109,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/kit-3-cinto-fivela-organica-branco-caramelo-preto-unico-g0md9/"
+ },
+ {
+  "rank_vendas": 110,
+  "nome": "Vestido Longo Renda Laço",
+  "preco": 199.9,
+  "sku": "VEST317-1",
+  "categorias": [],
+  "tecido": "Renda Cetim",
+  "composicao": "100% poliéster",
+  "tamanhos": "P , M,  G, GG",
+  "estoque": 271,
+  "descricao": "Compre online Vestido Longo Renda Laço por R$129,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-renda-laco-na-alca-uaspc/"
+ },
+ {
+  "rank_vendas": 111,
+  "nome": "Calça Jogger com Elástico e Bolsos",
+  "preco": 149.9,
+  "sku": "CALC84-2",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Tactel",
+  "composicao": "100% poliéster",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 83,
+  "descricao": "Compre online Calça Jogger com Elástico e Bolsos por R$69,90. Faça seu pedido e pague-o online.",
+  "url": "https://www.swisz.com.br/produtos/calca-jogger-com-elastico-e-bolsos-1yoob/"
+ },
+ {
+  "rank_vendas": 117,
+  "nome": "Polo Tricot Manga Curta",
+  "preco": 119.9,
+  "sku": "BLUS174-1",
+  "categorias": [
+   "blusas"
+  ],
+  "tecido": "Tricot",
+  "composicao": "86% Acrílico e 14% Poliéster",
+  "tamanhos": "",
+  "estoque": 282,
+  "descricao": "Polo de tricô listrado com gola clássica e manga curta. O tricô é macio e não coça, e a manga curta serve pro ar-condicionado e pro meio de estação.",
+  "url": "https://www.swisz.com.br/produtos/polo-listrada-manga-curta-wf2zo/"
+ },
+ {
+  "rank_vendas": 120,
+  "nome": "Biquíni Asa Delta Franzido",
+  "preco": 129.9,
+  "sku": "BIQU5-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% poliéster, 4% elastano",
+  "tamanhos": "P | calcinha: 19cm | busto: 14cm",
+  "estoque": 1118,
+  "descricao": "Biquíni asa delta com nó franzido no busto. O franzido dá sustentação e ajuda a valorizar o colo. Já vem com bojo.",
+  "url": "https://www.swisz.com.br/produtos/biquini-alca-larga-e-pregas-12cwn/"
+ },
+ {
+  "rank_vendas": 123,
+  "nome": "Short Courino com Cinto",
+  "preco": 44.9,
+  "sku": "SHOR9-6",
+  "categorias": [
+   "shorts"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "P | M | G | GG",
+  "estoque": 130,
+  "descricao": "Short de courino estilo alfaiataria, com cinto incluso. O cinto já vem junto, então a peça chega pronta pra usar. O courino é estruturado e mantém o caimento.",
+  "url": "https://www.swisz.com.br/produtos/short-feminino-couro-sintetico-com-cinto-1fcl0/"
+ },
+ {
+  "rank_vendas": 125,
+  "nome": "Saia Mini Tule Babados",
+  "preco": 59.9,
+  "sku": "SAIA73-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Suplex Romantic e Tule",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 54,
+  "descricao": "Saia mini de tule com amarração lateral e camadas de babado. As camadas dão volume e movimento, e a amarração ajusta na sua cintura.",
+  "url": "https://www.swisz.com.br/produtos/saia-mini-tule-com-babados-de-amarrar-1n1re/"
+ },
+ {
+  "rank_vendas": 127,
+  "nome": "Vestido Drapeado Assimétrico Franja",
+  "preco": 99.9,
+  "sku": "VEST318-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "",
+  "estoque": 212,
+  "descricao": "Vestido curto de um ombro só, com drapeado e faixa lateral. O drapeado marca a cintura e a faixa dá o acabamento. A modelagem é ajustada e acompanha o corpo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-drapeado-assimetrico-franja-1ny5q/"
+ },
+ {
+  "rank_vendas": 128,
+  "nome": "Poncho Capa Tricot Modal",
+  "preco": 199.9,
+  "sku": "PONC7-1",
+  "categorias": [
+   "kimonos e ponchos"
+  ],
+  "tecido": "Tricot",
+  "composicao": "52% Viscose 27% Poliéster 21% Poliamida",
+  "tamanhos": "único, com 6 cores pra escolher.",
+  "estoque": 144,
+  "descricao": "Poncho de tricô com textura em relevo e modelagem ampla. Veste bem em corpos diferentes porque não tem forma fixa. O tricô é macio e não coça.",
+  "url": "https://www.swisz.com.br/produtos/poncho-capa-tricot-modal-17gbu/"
+ },
+ {
+  "rank_vendas": 129,
+  "nome": "Cinto Courino Fivela Dragão",
+  "preco": 89.9,
+  "sku": "CINT54-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único | comprimento da peça: 110cm",
+  "estoque": 20,
+  "descricao": "Cinto de courino com fivela de dragão em metal trabalhado. A fivela é o ponto de atenção da peça, então funciona melhor com roupa mais lisa.",
+  "url": "https://www.swisz.com.br/produtos/cinto-couro-fivela-dragao-metal-rgjdi/"
+ },
+ {
+  "rank_vendas": 130,
+  "nome": "Cinto Courino Estrela Corrente",
+  "preco": 89.9,
+  "sku": "CINT53-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único | comprimento da peça: 110cm",
+  "estoque": 28,
+  "descricao": "Cinto de courino com corrente e aplicação de estrela em metal. Marca a cintura e dá acabamento ao look.",
+  "url": "https://www.swisz.com.br/produtos/cinto-couro-circulo-estrela-corrente-1is5c/"
+ },
+ {
+  "rank_vendas": 132,
+  "nome": "Camisa Veludo Cotelê",
+  "preco": 79.9,
+  "sku": "CASA55-3",
+  "categorias": [],
+  "tecido": "Veludo Cotelê",
+  "composicao": "98% poliéster e 2% elastano",
+  "tamanhos": "M / G",
+  "estoque": 0,
+  "descricao": "Camisa de veludo cotelê com botões e modelagem soltinha. O cotelê tem textura e cai bem, veste melhor que camisa lisa em quem não gosta de peça marcada.",
+  "url": "https://www.swisz.com.br/produtos/camisa-social-veludo-cotele-botoes-1x6ds/"
+ },
+ {
+  "rank_vendas": 133,
+  "nome": "Legging Cirrê Cintura Alta",
+  "preco": 89.9,
+  "sku": "CALC85-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Cirrê",
+  "composicao": "92% poliéster 8% elastano",
+  "tamanhos": "PP / P / M / G / GG",
+  "estoque": 956,
+  "descricao": "Legging de cirrê com cintura alta. A cintura alta segura a barriga e não desce quando você senta. O cirrê modela e não fica transparente na hora de agachar.",
+  "url": "https://www.swisz.com.br/produtos/calca-legging-cirre-1vjhn/"
+ },
+ {
+  "rank_vendas": 134,
+  "nome": "Vestido Tubinho Cirrê",
+  "preco": 129.9,
+  "sku": "VEST314-1",
+  "categorias": [],
+  "tecido": "Cirrê",
+  "composicao": "92% Poliéster 8% Elastano",
+  "tamanhos": "P/m/g/gg",
+  "estoque": 0,
+  "descricao": "Vestido tubinho de cirrê com zíper na lateral. O cirrê tem brilho leve, modela o corpo e não fica transparente. O zíper facilita vestir e tirar.",
+  "url": "https://www.swisz.com.br/produtos/vestido-tubinho-tomara-que-caia-cirre-1fxbk/"
+ },
+ {
+  "rank_vendas": 135,
+  "nome": "Vestido Assimétrico Manga Babado",
+  "preco": 99.9,
+  "sku": "VEST312-1",
+  "categorias": [],
+  "tecido": "Suplex Romantic / Tule",
+  "composicao": "95% poliéster e 5% elastano",
+  "tamanhos": "Único / GG",
+  "estoque": 31,
+  "descricao": "Vestido curto de um ombro só com sobreposição de tule na manga. O tule dá leveza e o ombro único faz o desenho da peça.",
+  "url": "https://www.swisz.com.br/produtos/vestido-curto-uma-manga-assimetrico-1idyu/"
+ },
+ {
+  "rank_vendas": 136,
+  "nome": "Vestido Tule Decote Degagê",
+  "preco": 69.9,
+  "sku": "VEST308-1",
+  "categorias": [],
+  "tecido": "Suplex Romantic e Tule",
+  "composicao": "Tamanho:",
+  "tamanhos": "P / M / G",
+  "estoque": 62,
+  "descricao": "Vestido de tule com decote degagê e modelagem ajustada. O degagê abre o colo e o tule dá leveza ao conjunto. O suplex por baixo estrutura a peça.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-tule-regata-decote-degagge-tranpassado-1st9x/"
+ },
+ {
+  "rank_vendas": 137,
+  "nome": "Vestido Sereia Frente Única",
+  "preco": 89.9,
+  "sku": "VEST303-1",
+  "categorias": [],
+  "tecido": "Suplex Romantic",
+  "composicao": "95% Poliéster 5% Elastano",
+  "tamanhos": "Único / GG",
+  "estoque": 26,
+  "descricao": "Vestido longo sereia com decote halter. O halter deixa as costas livres e valoriza o ombro. A modelagem sereia marca o corpo e abre na barra.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-longo-frente-unica-sereia-de-amarrar-28gvr/"
+ },
+ {
+  "rank_vendas": 138,
+  "nome": "Vestido Frente Única Cinto",
+  "preco": 69.9,
+  "sku": "VEST316-1",
+  "categorias": [],
+  "tecido": "Crepinho",
+  "composicao": "97% poliéster 3% elastano",
+  "tamanhos": "Único",
+  "estoque": 0,
+  "descricao": "Vestido curto com gola alta, cintura marcada e costas nuas. A gola alta na frente e as costas livres é o contraste que faz a peça. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-curto-frente-unica-com-cinto/"
+ },
+ {
+  "rank_vendas": 139,
+  "nome": "Cropped Drapeado Alças Finas",
+  "preco": 59.9,
+  "sku": "CROP206-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Tule",
+  "composicao": "95% Poliéster 5% Elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 11,
+  "descricao": "Cropped de tule com drapeado e decote degagê. O drapeado acompanha o corpo e o degagê abre o colo na medida. O tule dá leveza sem esquentar.",
+  "url": "https://www.swisz.com.br/produtos/cropped-feminino-drapeado-decote-degage-alcas-finas-casual-181wp/"
+ },
+ {
+  "rank_vendas": 140,
+  "nome": "Vestido Tomara que Caia Torcido",
+  "preco": 159.9,
+  "sku": "VEST309-1",
+  "categorias": [],
+  "tecido": "não informado",
+  "composicao": "",
+  "tamanhos": "P | comprimento da peça: 63 cm",
+  "estoque": 290,
+  "descricao": "Vestido curto rodado com decote torcido. O torcido é o detalhe que valoriza o colo sem precisar de decote profundo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-tomara-que-caia-curto-decote-torcido-elegante-ttx4c/"
+ },
+ {
+  "rank_vendas": 141,
+  "nome": "Cropped Regata Decote Quadrado",
+  "preco": 49.9,
+  "sku": "BLUS166-1",
+  "categorias": [],
+  "tecido": "Suplex Romantic",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 1081,
+  "descricao": "Cropped de decote quadrado com franzido e alças largas. As alças largas dão sustentação e o decote quadrado valoriza o colo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/blusa-cropped-feminino-regata-decote-quadrado-franzido-1lwxk/"
+ },
+ {
+  "rank_vendas": 143,
+  "nome": "Cropped Tule Decote Degagê",
+  "preco": 39.9,
+  "sku": "CROP207-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Suplex Romantic e Tule",
+  "composicao": "96% poliéster 4% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 127,
+  "descricao": "Cropped de tule com decote degagê. O tule dá leveza e o decote degagê abre o colo sem descer muito. O suplex por baixo dá a estrutura.",
+  "url": "https://www.swisz.com.br/produtos/cropped-feminino-decote-degage-alcas-finas-tule-16iuo/"
+ },
+ {
+  "rank_vendas": 144,
+  "nome": "Vestido Rendado Ombro a Ombro",
+  "preco": 99.9,
+  "sku": "VEST315-1",
+  "categorias": [],
+  "tecido": "Malha crepe renda",
+  "composicao": "95% poliéster 5% elastano",
+  "tamanhos": "P / M / G",
+  "estoque": 200,
+  "descricao": "Vestido curto ombro a ombro com detalhe de renda. O ombro a ombro valoriza o colo e pede sutiã sem alça.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-curto-ombro-a-ombro-rendado-manga-longa-1u3ib/"
+ },
+ {
+  "rank_vendas": 145,
+  "nome": "Short Doll Poá Renda",
+  "preco": 49.9,
+  "sku": "CONJ118-1",
+  "categorias": [
+   "pijamas"
+  ],
+  "tecido": "Liganete",
+  "composicao": "96% poliéster 4% elastano",
+  "tamanhos": "P / M / G / GG",
+  "estoque": 112,
+  "descricao": "Pijama short doll de poá com detalhe de renda no decote. A liganete é leve e macia, bom pra noite quente. O caimento é soltinho e não aperta pra dormir.",
+  "url": "https://www.swisz.com.br/produtos/conjunto-pijama-feminino-short-doll-estampado-poa-renda-decote-curto-tbyot/"
+ },
+ {
+  "rank_vendas": 146,
+  "nome": "Vestido Rodado Alças Finas",
+  "preco": 78.9,
+  "sku": "VEST304-1",
+  "categorias": [],
+  "tecido": "Duna",
+  "composicao": "96% Poliéster 4% Elastano",
+  "tamanhos": "Único veste 36 a 42",
+  "estoque": 21,
+  "descricao": "Vestido curto rodado com alças finas e costas cruzadas. As costas cruzadas seguram a peça no lugar e desenham as costas. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-feminino-curto-rodado-alcas-finas-decote-reto-14m9a/"
+ },
+ {
+  "rank_vendas": 147,
+  "nome": "Pantalona Pregas Cós Transpassado",
+  "preco": 78.9,
+  "sku": "CALC81-1",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Viscose",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "P veste 36 | comprimento da peça: 112 cm",
+  "estoque": 62,
+  "descricao": "Calça pantalona com pregas na frente e cós transpassado em ponta. As pregas alongam a perna e o cós transpassado afina a cintura.",
+  "url": "https://www.swisz.com.br/produtos/calca-feminina-pantalona-pregas-cintura-alta-cos-transpassado-wide-leg-d0y8w/"
+ },
+ {
+  "rank_vendas": 148,
+  "nome": "Cinto Corrente Conchas Estrelas",
+  "preco": 39.9,
+  "sku": "CINT52-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único | comprimento da peça: 106cm",
+  "estoque": 8,
+  "descricao": "Cinto de corrente com pingentes de concha e estrela do mar. É o acessório que fecha um look de verão sem precisar de mais nada.",
+  "url": "https://www.swisz.com.br/produtos/cinto-feminino-corrente-pingentes-conchas-estrelas-estilo-praia-1rszc/"
+ },
+ {
+  "rank_vendas": 149,
+  "nome": "Vestido Longo Floral de Amarrar",
+  "preco": 84.9,
+  "sku": "VEST301-1",
+  "categorias": [],
+  "tecido": "Crepinho Estampado",
+  "composicao": "95% Poliéster 5% Elastano",
+  "tamanhos": "único, com 7 cores pra escolher.",
+  "estoque": 267,
+  "descricao": "Vestido longuete rodado com estampa floral e amarração no busto. A amarração ajusta ao seu corpo e valoriza o colo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-estampado-fenda/"
+ },
+ {
+  "rank_vendas": 150,
+  "nome": "Saia Saída De Praia Babados",
+  "preco": 129.9,
+  "sku": "SAID10-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Cambraia",
+  "composicao": "96% Poliéster | 4% Elastano",
+  "tamanhos": "P | M | G | GG",
+  "estoque": 176,
+  "descricao": "Saia longa de saída de praia com cós alto e babados. A transparência é delicada, então cobre sem esconder o biquíni. O tecido é leve e seca rápido.",
+  "url": "https://www.swisz.com.br/produtos/saia-saida-de-praia-babados/"
+ },
+ {
+  "rank_vendas": 151,
+  "nome": "Biquíni 2 Argolas",
+  "preco": 49.9,
+  "sku": "BIQU1-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "96% Poliéster | 4% Elastano",
+  "tamanhos": "P | M | G | GG",
+  "estoque": 159,
+  "descricao": "Biquíni de um ombro só com duas argolas metálicas no top. As argolas dão o desenho da peça e o ombro único quebra a marca de sol certinha. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/biquini-2-argolas/"
+ },
+ {
+  "rank_vendas": 152,
+  "nome": "Saia Franzida 2 em 1 Saída de Praia",
+  "preco": 129.9,
+  "sku": "SAID9-1",
+  "categorias": [
+   "saídas de praia"
+  ],
+  "tecido": "Cambraia",
+  "composicao": "",
+  "tamanhos": "único, com 3 cores pra escolher.",
+  "estoque": 357,
+  "descricao": "Saia longa de cambraia com cintura alta e franzido. O franzido ajusta ao corpo sem apertar e o comprimento longo protege do sol.",
+  "url": "https://www.swisz.com.br/produtos/saia-saida-de-praia-franzida-2-em-1/"
+ },
+ {
+  "rank_vendas": 153,
+  "nome": "Vestido Longo Poá",
+  "preco": 79.9,
+  "sku": "VEST295-1",
+  "categorias": [],
+  "tecido": "Crepinho",
+  "composicao": "",
+  "tamanhos": "Único | comprimento da peça: 136 cm",
+  "estoque": 216,
+  "descricao": "Vestido longo de poá com manga flare e saia fluida. O poá é clássico e não sai de moda, então a peça rende por anos. O crepinho é leve e tem bom caimento.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-manga-flare-poa-sfch0/"
+ },
+ {
+  "rank_vendas": 154,
+  "nome": "Camisão Chemise Fenda Lateral",
+  "preco": 59.9,
+  "sku": "VEST290-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 242,
+  "descricao": "Camisão chemise com fenda lateral, leve e soltinho. A fenda dá passagem pra andar e ainda alonga a perna.",
+  "url": "https://www.swisz.com.br/produtos/camisao-chemise-fenda-lateral-uysap/"
+ },
+ {
+  "rank_vendas": 155,
+  "nome": "Short Tricô Modal Listrado",
+  "preco": 39.9,
+  "sku": "SHOR39-1",
+  "categorias": [
+   "shorts"
+  ],
+  "tecido": "Tricot",
+  "composicao": "",
+  "tamanhos": "único, com 4 cores pra escolher.",
+  "estoque": 29,
+  "descricao": "Short de tricô listrado com cordão ajustável. O tricô é macio e fresco, é short de verão e de casa. O cordão ajusta na cintura do jeito que ficar melhor.",
+  "url": "https://www.swisz.com.br/produtos/short-trico-modal-listrado/"
+ },
+ {
+  "rank_vendas": 156,
+  "nome": "Vestido Prada Paetê",
+  "preco": 129.9,
+  "sku": "VEST293-2",
+  "categorias": [],
+  "tecido": "Malha Prada com Paetê",
+  "composicao": "96% Poliéster, 4% Elastano",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 84cm",
+  "estoque": 6,
+  "descricao": "Vestido curto de um ombro só, com corpete de paetê e saia lisa. O paetê fica só em cima, então brilha sem exagerar. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-prada-paete/"
+ },
+ {
+  "rank_vendas": 157,
+  "nome": "Camisa Oversized Cropped Luísa",
+  "preco": 64.9,
+  "sku": "BLUS160-2",
+  "categorias": [],
+  "tecido": "Viscolinho Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 50cm | comprimento da mang",
+  "estoque": 30,
+  "descricao": "Camisa oversized cropped, com modelagem ampla e manga bufante. O viscolinho é leve e fresco, aguenta calor mesmo com manga longa.",
+  "url": "https://www.swisz.com.br/produtos/camisa-oversized-cropped-luisa/"
+ },
+ {
+  "rank_vendas": 158,
+  "nome": "Cropped Regata Costas Trançada",
+  "preco": 39.9,
+  "sku": "CROP201-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Viscolycra",
+  "composicao": "96% Viscose, 4% Elastano",
+  "tamanhos": "P veste 36 | comprimento da peça: 27 cm",
+  "estoque": 144,
+  "descricao": "Cropped de alças finas com costas nuas e elástico atrás. O elástico é o que faz a peça ficar no lugar sem apertar. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/cropped-tiras-nas-costas/"
+ },
+ {
+  "rank_vendas": 159,
+  "nome": "Vestido Curto Regata Drapeado",
+  "preco": 129.9,
+  "sku": "VEST287-1",
+  "categorias": [],
+  "tecido": "Suplex Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 40,
+  "descricao": "Vestido curto regata com decote alto e drapeado na frente. O drapeado disfarça a barriga e ainda dá movimento. O suplex modela o corpo sem marcar demais.",
+  "url": "https://www.swisz.com.br/produtos/vestido-curto-regata-drapeado/"
+ },
+ {
+  "rank_vendas": 160,
+  "nome": "Lenço Estampado Quadrados",
+  "preco": 129.9,
+  "sku": "LENC2-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "Poliéster",
+  "composicao": "",
+  "tamanhos": "Único, veste 36 a 42",
+  "estoque": 60,
+  "descricao": "Lenço estampado em xadrez colorido, leve e macio. Aceita várias amarrações: no pescoço, na cabeça, na alça da bolsa ou na cintura, como cinto.",
+  "url": "https://www.swisz.com.br/produtos/lenco-estampado-fashion-quadrados-colorido-a34hs/"
+ },
+ {
+  "rank_vendas": 161,
+  "nome": "Cinto Punk Rock Spike",
+  "preco": 49.9,
+  "sku": "CINT50-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 110cm",
+  "estoque": 129,
+  "descricao": "Cinto de courino preto com spikes metálicos. Coloca por cima de um look básico e a produção muda de tom na hora.",
+  "url": "https://www.swisz.com.br/produtos/cinto-punk-rock-spikes/"
+ },
+ {
+  "rank_vendas": 162,
+  "nome": "Camisa Social Cropped",
+  "preco": 69.9,
+  "sku": "BLUS158-5",
+  "categorias": [],
+  "tecido": "Crepe Premium",
+  "composicao": "",
+  "tamanhos": "P veste 36",
+  "estoque": 375,
+  "descricao": "Camisa cropped com gola estruturada, botões e recorte em bico na barra. O bico marca a cintura e alonga o tronco. O crepe é firme, não amassa fácil e cai bem.",
+  "url": "https://www.swisz.com.br/produtos/camisa-social-cropped/"
+ },
+ {
+  "rank_vendas": 163,
+  "nome": "Blusa Assimétrica Renda",
+  "preco": 129.9,
+  "sku": "BLUS204-1",
+  "categorias": [],
+  "tecido": "Renda",
+  "composicao": "",
+  "tamanhos": "Único veste 36/44",
+  "estoque": 303,
+  "descricao": "Blusa tomara que caia de renda, com amarração e transparência delicada. Tem bojo, que é o que sustenta a peça sem alça. A renda deixa entrever sem expor.",
+  "url": "https://www.swisz.com.br/produtos/blusa-assimetrica-renda/"
+ },
+ {
+  "rank_vendas": 165,
+  "nome": "Camisa Social Tule",
+  "preco": 94.9,
+  "sku": "BLUS132-5",
+  "categorias": [],
+  "tecido": "Tule Premium",
+  "composicao": "100% Poliéster",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 58 cm | comprimento",
+  "estoque": 146,
+  "descricao": "Camisa de tule com botões, transparente e leve. É peça de sobreposição: usa com um body ou top por baixo, e a gente tem vários que funcionam.",
+  "url": "https://www.swisz.com.br/produtos/camisa-social-tule/"
+ },
+ {
+  "rank_vendas": 166,
+  "nome": "Vestido Uma Manga Longa",
+  "preco": 95.9,
+  "sku": "VEST14-10",
+  "categorias": [],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 78 cm | comprimento",
+  "estoque": 175,
+  "descricao": "Vestido de um ombro só com detalhe vazado na cintura e amarração lateral. A amarração ajusta a peça ao seu corpo. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-um-ombro-so-manga-longa/"
+ },
+ {
+  "rank_vendas": 167,
+  "nome": "Macaquinho Duna Juju",
+  "preco": 119.9,
+  "sku": "MACA24-2",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Crepe Duna",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da manga: 34cm | comprimento",
+  "estoque": 173,
+  "descricao": "Macaquinho de um ombro só, com manga curta, em crepe duna. A frente lembra vestido e o short embaixo dá a liberdade. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-duna-juju-xzfh/"
+ },
+ {
+  "rank_vendas": 168,
+  "nome": "Cropped Decote Drapeado",
+  "preco": 29.9,
+  "sku": "CROP14-4",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Viscose",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 27cm",
+  "estoque": 148,
+  "descricao": "Cropped com decote degagê e detalhe de corrente dourada. A corrente já dá o brilho, então você não precisa de colar. A viscose é leve e fresca.",
+  "url": "https://www.swisz.com.br/produtos/cropped-decote-drapeado/"
+ },
+ {
+  "rank_vendas": 169,
+  "nome": "Vestido Midi Botões Charlotte",
+  "preco": 69.9,
+  "sku": "VEST21-21",
+  "categorias": [],
+  "tecido": "Viscose + Linho",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 108cm",
+  "estoque": 271,
+  "descricao": "Vestido midi de alcinha com botões na frente. Viscose com linho, então é fresco mesmo no calor e o caimento soltinho não marca o corpo. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-midi-botoes-charlotte-41uv3/"
+ },
+ {
+  "rank_vendas": 170,
+  "nome": "Cropped Top Faixa Reto",
+  "preco": 59.9,
+  "sku": "CROP55-8",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Suplex Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 23 cm",
+  "estoque": 260,
+  "descricao": "Cropped faixa reto, sem alça, com bojo embutido. O bojo é o que segura a peça no lugar, então não precisa ficar ajustando.",
+  "url": "https://www.swisz.com.br/produtos/cropped-top-faixa-reto-d4nu/"
+ },
+ {
+  "rank_vendas": 172,
+  "nome": "Cropped Faixa Gringa",
+  "preco": 29.9,
+  "sku": "CROP25-7",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Suplex Em Poliamida",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 281,
+  "descricao": "Cropped faixa com bojo embutido e várias formas de amarrar. Cada amarração muda a cara da peça, então uma compra rende vários looks.",
+  "url": "https://www.swisz.com.br/produtos/cropped-faixa-gringa-4jal/"
+ },
+ {
+  "rank_vendas": 173,
+  "nome": "Kimono Longo Quadriculado Tricot",
+  "preco": 45.9,
+  "sku": "CASA2-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "Único",
+  "estoque": 65,
+  "descricao": "Kimono longo de tricô com padrão quadriculado e manga bufante. É sobreposição, então vai por cima de qualquer coisa e fecha a produção.",
+  "url": "https://www.swisz.com.br/produtos/casaco-cardigan-manga-bufante-alfie/"
+ },
+ {
+  "rank_vendas": 175,
+  "nome": "Poncho Franjas Manga Longa",
+  "preco": 129.9,
+  "sku": "PONC1-1",
+  "categorias": [
+   "kimonos e ponchos"
+  ],
+  "tecido": "Tricot",
+  "composicao": "",
+  "tamanhos": "único, com 7 cores pra escolher.",
+  "estoque": 154,
+  "descricao": "Poncho de tricô com franjas na barra e desenho nos ombros. As franjas dão movimento quando você anda.",
+  "url": "https://www.swisz.com.br/produtos/poncho-feminino-franjas-zd2p/"
+ },
+ {
+  "rank_vendas": 176,
+  "nome": "Vestido Uma Manga Vazado",
+  "preco": 129.9,
+  "sku": "VEST29-11",
+  "categorias": [],
+  "tecido": "Crepe Duna Importado",
+  "composicao": "",
+  "tamanhos": "Único veste 36/40 | comprimento da manga: 27cm | comprimento",
+  "estoque": 735,
+  "descricao": "Vestido curto de um ombro só, com manga delicada e recorte lateral. Tem bojo, dispensa sutiã. O ombro livre pede sutiã sem alça ou nada por baixo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-manga-curta-vazado/"
+ },
+ {
+  "rank_vendas": 177,
+  "nome": "Macaquinho Ciganinha Ombro a Ombro",
+  "preco": 129.9,
+  "sku": "MACA38-11",
+  "categorias": [
+   "macacões"
+  ],
+  "tecido": "Viscolinho Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 58 cm",
+  "estoque": 291,
+  "descricao": "Macaquinho ciganinha em viscolinho, com a frente que parece um vestido e o short escondido embaixo.",
+  "url": "https://www.swisz.com.br/produtos/macaquinho-ombro-a-ombro/"
+ },
+ {
+  "rank_vendas": 178,
+  "nome": "Calça Legging Cirrê Tratorada",
+  "preco": 49.9,
+  "sku": "CALC22-4",
+  "categorias": [
+   "calças"
+  ],
+  "tecido": "Cirrê Importado",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 96cm",
+  "estoque": 28,
+  "descricao": "Legging de cirrê tratorada, com brilho e caimento firme. O cirrê modela o corpo e não fica transparente quando você agacha.",
+  "url": "https://www.swisz.com.br/produtos/calca-legging-cirre-tratorada-couro-fake-ld4p/"
+ },
+ {
+  "rank_vendas": 179,
+  "nome": "Vestido Longo Tricot",
+  "preco": 79.9,
+  "sku": "VEST97-7",
+  "categorias": [],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | Comprimento da Peça: 139cm",
+  "estoque": 809,
+  "descricao": "Vestido longo de tricô, ajustado no corpo, com fenda lateral. O ponto é fechado, não enrosca com facilidade e não deixa ver o que está por baixo.",
+  "url": "https://www.swisz.com.br/produtos/vestido-longo-trabalhado-em-trico-b9jjf/"
+ },
+ {
+  "rank_vendas": 180,
+  "nome": "Cropped Trançado Ombro Só",
+  "preco": 39.9,
+  "sku": "CROP75-3",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Suplex",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 74,
+  "descricao": "Cropped de um ombro só, com torcido na frente e manga longa de um lado. O detalhe torcido valoriza o colo e o ombro livre equilibra a manga. Tem bojo.",
+  "url": "https://www.swisz.com.br/produtos/cropped-mula-manca-decote-trancado-bzmc/"
+ },
+ {
+  "rank_vendas": 182,
+  "nome": "Cropped Corset Courino Bico",
+  "preco": 49.9,
+  "sku": "CROP98-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Courino Premium",
+  "composicao": "",
+  "tamanhos": "P | M | G",
+  "estoque": 52,
+  "descricao": "Cropped corset tomara que caia em courino, com recorte em bico na barra. O bico alonga o tronco, o que ajuda quem quer parecer mais alta.",
+  "url": "https://www.swisz.com.br/produtos/cropped-corset-couro-bico-5t0l/"
+ },
+ {
+  "rank_vendas": 183,
+  "nome": "Saia Midi Courino Plissada",
+  "preco": 65.9,
+  "sku": "SAIA34-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "P | comprimento da peça: 77 cm",
+  "estoque": 278,
+  "descricao": "Saia midi de courino com plissado e fenda frontal. O plissado dá movimento e disfarça o quadril. A fenda facilita andar.",
+  "url": "https://www.swisz.com.br/produtos/saia-midi-couro-plissada/"
+ },
+ {
+  "rank_vendas": 184,
+  "nome": "Saia Midi Courino 3 Marias",
+  "preco": 65.9,
+  "sku": "SAIA35-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Cirrê",
+  "composicao": "100% Poliéster",
+  "tamanhos": "P, M, G, GG",
+  "estoque": 179,
+  "descricao": "Saia midi em cirrê, com brilho leve e caimento alinhado. O cirrê é 100% poliéster, não amassa e é fácil de cuidar.",
+  "url": "https://www.swisz.com.br/produtos/saia-midi-couro3-marias/"
+ },
+ {
+  "rank_vendas": 185,
+  "nome": "Colete Courino",
+  "preco": 55.9,
+  "sku": "CASA40-1",
+  "categorias": [
+   "casacos"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "único, em preto.",
+  "estoque": 63,
+  "descricao": "Colete de courino com corte social e botões encapados. É a peça que fecha uma produção sem precisar de casaco.",
+  "url": "https://www.swisz.com.br/produtos/colete-couro-fake-rikw/"
+ },
+ {
+  "rank_vendas": 186,
+  "nome": "Saia Courino 2 Zíper",
+  "preco": 49.9,
+  "sku": "SAIA36-1",
+  "categorias": [
+   "saias"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 38cm",
+  "estoque": 42,
+  "descricao": "Saia curta de courino com zíper frontal funcional. A modelagem é justa e o courino é estruturado, então segura a forma sem marcar.",
+  "url": "https://www.swisz.com.br/produtos/saia-couro2-ziper-up1f/"
+ },
+ {
+  "rank_vendas": 187,
+  "nome": "Camisa Social Manga Longa",
+  "preco": 79.9,
+  "sku": "BLUS57-1",
+  "categorias": [],
+  "tecido": "Crepe Duna Importado",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 63cm | comprimento da m",
+  "estoque": 2617,
+  "descricao": "Camisa social de crepe duna importado, com gola colarinho e botões na frente. O punho tem lastex, então a manga não escapa quando você dobra.",
+  "url": "https://www.swisz.com.br/produtos/camisa-social-manga-longa/"
+ },
+ {
+  "rank_vendas": 188,
+  "nome": "Cropped Courino Alcinha",
+  "preco": 39.9,
+  "sku": "CROP105-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "Único veste 36/40 | comprimento da peça: 24 cm",
+  "estoque": 17,
+  "descricao": "Cropped de courino com alças finas e decote reto. Tem bojo, dispensa sutiã. Os recortes ajustam a peça ao corpo, então ela não sobe durante a noite.",
+  "url": "https://www.swisz.com.br/produtos/cropped-couro-alcinha-uo69/"
+ },
+ {
+  "rank_vendas": 189,
+  "nome": "Vestido Alcinha Argola",
+  "preco": 79.9,
+  "sku": "VEST177-1",
+  "categorias": [],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 118 cm",
+  "estoque": 356,
+  "descricao": "Vestido longo de alcinha com argola no decote. O crepe duna é macio e o caimento é fluido, cai reto sem marcar. A argola é o detalhe que segura o olhar.",
+  "url": "https://www.swisz.com.br/produtos/vestido-alcinha-argola/"
+ },
+ {
+  "rank_vendas": 190,
+  "nome": "Vestido Milão",
+  "preco": 69.9,
+  "sku": "VEST179-7",
+  "categorias": [],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "único que veste do 38 ao 44, com 13 cores pra escolher.",
+  "estoque": 8,
+  "descricao": "Vestido frente única com camadas que dão movimento. É leve e soltinho, feito pra dia quente, e não gruda no corpo. Tem bojo embutido.",
+  "url": "https://www.swisz.com.br/produtos/vestido-milao/"
+ },
+ {
+  "rank_vendas": 191,
+  "nome": "Vestido Zoe",
+  "preco": 149.9,
+  "sku": "VEST182-2",
+  "categorias": [],
+  "tecido": "Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 80 cm",
+  "estoque": 478,
+  "descricao": "Vestido frente única com amarração nas costas, que você ajusta na altura que preferir. Tem bojo, dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/vestido-zoe/"
+ },
+ {
+  "rank_vendas": 193,
+  "nome": "Vestido Longo Frente Única",
+  "preco": 89.9,
+  "sku": "VEST198-1",
+  "categorias": [],
+  "tecido": "Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 38/44 | comprimento da peça: 112cm",
+  "estoque": 26,
+  "descricao": "Vestido longo com amarração no pescoço e fenda frontal discreta. Tem bojo, dispensa sutiã, e a amarração deixa as costas livres.",
+  "url": "https://www.swisz.com.br/produtos/vestido-paris/"
+ },
+ {
+  "rank_vendas": 194,
+  "nome": "Cinto Fivela GG",
+  "preco": 39.9,
+  "sku": "CINT17-1",
+  "categorias": [
+   "acessórios"
+  ],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 107cm | largura: 4c",
+  "estoque": 577,
+  "descricao": "Cinto de courino com fivela dupla em tamanho maxi. A fivela é o que dá o ar de produção montada em cima de um look simples.",
+  "url": "https://www.swisz.com.br/produtos/cinto-fivela-gg/"
+ },
+ {
+  "rank_vendas": 195,
+  "nome": "Cropped Cacharrel Ombro Vazado",
+  "preco": 49.9,
+  "sku": "CROP137-5",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Anarruga Premium",
+  "composicao": "",
+  "tamanhos": "único, com 9 cores pra escolher.",
+  "estoque": 284,
+  "descricao": "Cropped cacharrel com gola alta e ombro vazado. O anarruga tem textura, não amassa fácil e não marca o corpo.",
+  "url": "https://www.swisz.com.br/produtos/cropped-cacharrel-ombro-vazado-exyh/"
+ },
+ {
+  "rank_vendas": 196,
+  "nome": "Cropped Manga Longa Vazado",
+  "preco": 49.9,
+  "sku": "CROP138-2",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Anarruga Premium",
+  "composicao": "",
+  "tamanhos": "único, com 10 cores pra escolher.",
+  "estoque": 470,
+  "descricao": "Cropped de manga longa com decote vazado na frente. O anarruga é um tecido texturizado, disfarça e não amassa fácil, bom pra quem viaja.",
+  "url": "https://www.swisz.com.br/produtos/cropped-manga-longa-decote-vazado-yuzg/"
+ },
+ {
+  "rank_vendas": 197,
+  "nome": "Vestido Tricot Frente Única",
+  "preco": 74.9,
+  "sku": "VEST216-1",
+  "categorias": [],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 89 cm",
+  "estoque": 85,
+  "descricao": "Vestido curto de tricô com alças cruzadas nas costas. O tricô premium tem caimento firme e acompanha o corpo sem marcar demais.",
+  "url": "https://www.swisz.com.br/produtos/vestido-cruz-modal/"
+ },
+ {
+  "rank_vendas": 198,
+  "nome": "Cropped Corselet Acetinado",
+  "preco": 54.9,
+  "sku": "CROP149-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Acetinado Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 30cm",
+  "estoque": 205,
+  "descricao": "Cropped corselet tomara que caia, em tecido acetinado. Tem bojo estruturado, que é o que segura a peça no lugar sem alça.",
+  "url": "https://www.swisz.com.br/produtos/cropped-corset-acetinado1/"
+ },
+ {
+  "rank_vendas": 199,
+  "nome": "Vestido Tricot Ombro a Ombro",
+  "preco": 84.9,
+  "sku": "VEST236-1",
+  "categorias": [],
+  "tecido": "Tricot Premium",
+  "composicao": "88% Acrílico, 12% Poliéster",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 106cm",
+  "estoque": 58,
+  "descricao": "Vestido longo de tricô com decote ombro a ombro. O tricô é encorpado e cai bem no corpo sem transparecer.",
+  "url": "https://www.swisz.com.br/produtos/vestido-ombro-a-ombro-trico/"
+ },
+ {
+  "rank_vendas": 200,
+  "nome": "Cinto Corrente Medalhão Texturizado",
+  "preco": 129.9,
+  "sku": "CINT25-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 103 cm",
+  "estoque": 61,
+  "descricao": "Cinto de corrente com medalhão texturizado. O medalhão é o ponto alto da peça, então rende mais com roupa lisa, sem estampa competindo.",
+  "url": "https://www.swisz.com.br/produtos/cinto-corrente-medalhao-texturizado-nkrx/"
+ },
+ {
+  "rank_vendas": 201,
+  "nome": "Cinto Corrente Touro Country",
+  "preco": 129.9,
+  "sku": "CINT28-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 102 cm",
+  "estoque": 63,
+  "descricao": "Cinto de corrente com cabeças de touro esculpidas e pedras turquesa. O turquesa puxa o olhar, então combina bem com preto, branco e jeans.",
+  "url": "https://www.swisz.com.br/produtos/cinto-country-cabeca-de-touro-s2dm/"
+ },
+ {
+  "rank_vendas": 202,
+  "nome": "Cinto Corrente Cavalo Country",
+  "preco": 129.9,
+  "sku": "CINT29-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 102 cm",
+  "estoque": 237,
+  "descricao": "Cinto de corrente com medalhas de cavalo trabalhadas. É peça de personalidade, funciona melhor com roupa mais lisa pro detalhe aparecer.",
+  "url": "https://www.swisz.com.br/produtos/cinto-corrente-cavalo-country/"
+ },
+ {
+  "rank_vendas": 203,
+  "nome": "Cropped Courino Alice",
+  "preco": 39.9,
+  "sku": "CROP187-1",
+  "categorias": [
+   "croppeds"
+  ],
+  "tecido": "Courino",
+  "composicao": "",
+  "tamanhos": "P veste 36 | comprimento da peça: 24cm",
+  "estoque": 75,
+  "descricao": "Cropped tomara que caia em courino, com fecho de zíper atrás. O courino é estruturado, a peça fica em pé sozinha e não escorrega durante a noite.",
+  "url": "https://www.swisz.com.br/produtos/cropped-couro-alice/"
+ },
+ {
+  "rank_vendas": 204,
+  "nome": "Cinto Corrente Ferradura Country",
+  "preco": 69.9,
+  "sku": "CINT32-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 102 cm.",
+  "estoque": 35,
+  "descricao": "Cinto de corrente em metal com ferraduras aplicadas. É acessório de assinatura: com ele, jeans e camiseta branca viram produção.",
+  "url": "https://www.swisz.com.br/produtos/cinto-corrente-ferradura-country/"
+ },
+ {
+  "rank_vendas": 205,
+  "nome": "Poncho Gola Alta Texturizado",
+  "preco": 78.9,
+  "sku": "PONC5-1",
+  "categorias": [
+   "kimonos e ponchos"
+  ],
+  "tecido": "Tricot Premium",
+  "composicao": "",
+  "tamanhos": "único, com 11 cores pra escolher.",
+  "estoque": 142,
+  "descricao": "Poncho de tricô com gola alta e trama vazada. A modelagem é ampla e o caimento soltinho, então veste bem em corpos diferentes.",
+  "url": "https://www.swisz.com.br/produtos/poncho-gola-alta-texturizado-rofr/"
+ },
+ {
+  "rank_vendas": 206,
+  "nome": "Cinto Courino Munição",
+  "preco": 49.9,
+  "sku": "CINT45-1",
+  "categorias": [],
+  "tecido": "",
+  "composicao": "",
+  "tamanhos": "único, com 110cm de comprimento. Fica bem na cintura do jean",
+  "estoque": 136,
+  "descricao": "Cinto de courino com aplicação de cartucho em metal. É estruturado, não enrola na passante nem perde a forma com o uso. Tamanho único, com 110cm de comprimento.",
+  "url": "https://www.swisz.com.br/produtos/cinto-couro-municao/"
+ },
+ {
+  "rank_vendas": 207,
+  "nome": "Body Bojo Alça Única",
+  "preco": 78.9,
+  "sku": "BODY135-1",
+  "categorias": [
+   "bodies"
+  ],
+  "tecido": "Suplex",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 54 cm",
+  "estoque": 2548,
+  "descricao": "Body de alça única com fivela orgânica no ombro. A fivela é ajustável, você regula a altura da alça do jeito que ficar melhor.",
+  "url": "https://www.swisz.com.br/produtos/body-ombro-so-fivela-organica/"
+ },
+ {
+  "rank_vendas": 208,
+  "nome": "Body Marquezine Manga Longa",
+  "preco": 62.9,
+  "sku": "BODY25-3",
+  "categorias": [
+   "bodies"
+  ],
+  "tecido": "Suplex com Poliamida Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 1334,
+  "descricao": "Body de manga longa em suplex com poliamida. O tecido é firme, segura o corpo e volta ao lugar depois da lavagem. Já vem com bojo, então dispensa sutiã.",
+  "url": "https://www.swisz.com.br/produtos/body-manga-longa-decote-cruzado-rtqg/"
+ },
+ {
+  "rank_vendas": 209,
+  "nome": "Body Manga Curta Trançado",
+  "preco": 39.9,
+  "sku": "BODY11-11",
+  "categorias": [
+   "bodies"
+  ],
+  "tecido": "Suplex de Poliamida (Alta Qualidade)",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 14,
+  "descricao": "Body de manga curta com trançado na frente. O detalhe fica no centro, valoriza sem precisar de decote.",
+  "url": "https://www.swisz.com.br/produtos/body-manga-curta-trancado/"
+ },
+ {
+  "rank_vendas": 210,
+  "nome": "Body Manga Princesa",
+  "preco": 39.9,
+  "sku": "BODY8-16",
+  "categorias": [
+   "bodies"
+  ],
+  "tecido": "Suplex com poliamida",
+  "composicao": "",
+  "tamanhos": "M veste 38/40",
+  "estoque": 76,
+  "descricao": "Body de manga princesa em suplex com poliamida. A manga bufante no ombro dá delicadeza sem exagero. Tem bojo, você não precisa de sutiã por baixo.",
+  "url": "https://www.swisz.com.br/produtos/body-manga-princesa/"
+ },
+ {
+  "rank_vendas": 211,
+  "nome": "Blusa Alça Fina",
+  "preco": 69.9,
+  "sku": "BLUS26-9",
+  "categorias": [],
+  "tecido": "Suplex com Poliamida Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42 | comprimento da peça: 41cm",
+  "estoque": 1327,
+  "descricao": "Regatinha de alça fina em suplex com poliamida. Já vem com bojo embutido, então você dispensa o sutiã e não fica com alça aparecendo por baixo.",
+  "url": "https://www.swisz.com.br/produtos/blusa-alca-fina/"
+ },
+ {
+  "rank_vendas": 212,
+  "nome": "Blusa Assimétrica Manga Curta",
+  "preco": 39.9,
+  "sku": "BLUS7-19",
+  "categorias": [],
+  "tecido": "Viscolycra Premium",
+  "composicao": "",
+  "tamanhos": "M veste 38/40 | comprimento da peça: 42cm | comprimento da m",
+  "estoque": 1584,
+  "descricao": "Blusa de viscolycra com recorte assimétrico que deixa um ombro à mostra. O tecido é macio, tem elasticidade e acompanha o movimento sem repuxar.",
+  "url": "https://www.swisz.com.br/produtos/blusa-assimetrica-manga-curta/"
+ },
+ {
+  "rank_vendas": 213,
+  "nome": "Blusa Bata Assimétrica Duna",
+  "preco": 45.9,
+  "sku": "BLUS2-8",
+  "categorias": [],
+  "tecido": "Crepe Duna Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 38/44 | comprimento da peça: 56 cm",
+  "estoque": 36,
+  "descricao": "Bata de um ombro só em crepe duna, com babado que dá movimento. O caimento é fluido e não gruda no corpo, então funciona bem em dia quente.",
+  "url": "https://www.swisz.com.br/produtos/blusa-bata-assimetrica/"
+ },
+ {
+  "rank_vendas": 214,
+  "nome": "Blusa Tricot Gola Alta",
+  "preco": 62.9,
+  "sku": "BLUS137-1",
+  "categorias": [],
+  "tecido": "Lã Premium",
+  "composicao": "",
+  "tamanhos": "Único veste 36/42",
+  "estoque": 110,
+  "descricao": "Bata longa de lã, sem manga e com gola alta. Você usa sozinha com legging e bota, ou por dentro de uma calça de alfaiataria.",
+  "url": "https://www.swisz.com.br/produtos/blusa-trico-gola-alta/"
+ }
+]

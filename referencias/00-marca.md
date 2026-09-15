@@ -1,6 +1,7 @@
 # Swisz — base de marca
 
-_Última atualização: 15/09/2026. Fontes: busca web pública. **Ver "Lacunas" no fim.**_
+_Última atualização: 15/09/2026. Fontes: busca web pública e levantamento direto
+do catálogo de swisz.com.br (187 fichas). Catálogo detalhado em `08-catalogo.md`._
 
 ## O básico
 
@@ -13,13 +14,19 @@ _Última atualização: 15/09/2026. Fontes: busca web pública. **Ver "Lacunas" 
   conteúdo — dá acesso a bastidor, escolha de tecido, prova de modelagem, ajuste de
   caimento. Poucos concorrentes têm isso para mostrar.
 - **Posicionamento declarado:** moda feminina **para corpos reais**.
-- **Logística:** frete grátis para o Sudeste, entrega no mesmo dia na Grande São
-  Paulo (confirmar se segue valendo).
+- **Logística (confirmado no site em 15/09/2026):** frete grátis a partir de
+  R$ 199,90, entrega no mesmo dia para São Paulo e Região Metropolitana,
+  3x sem juros, 5% de desconto no Pix.
+- **Plataforma:** Nuvemshop. Razão social Swisz Fashion Group, São Paulo capital.
 
 ## Categorias de produto
 
-Blusas e camisas · croppeds · bodies · jaquetas e blazers · calças · shorts ·
-saias · vestidos · conjuntos.
+Ativas no site: acessórios · blusas · bodies · calças · casacos · conjuntos ·
+croppeds · kimonos e ponchos · macacões · pijamas · saias · saídas de praia ·
+shorts · vestidos.
+
+Peça mediana custa **R$ 78,90**; 63% do catálogo fica abaixo de R$ 80. Grade
+P–GG, com PP em parte das peças e muito **tamanho único que veste 36/42**.
 
 ## Linhas de coleção
 
@@ -36,21 +43,31 @@ evento" com data marcada no calendário.
 2. **Corpos reais** precisa aparecer no roteiro como informação prática — o que
    essa modelagem faz em quadril largo, em busto grande, em quem tem barriga —
    e não como slogan de inclusão.
-3. **Conjunto** é a peça de maior valor por roteiro: resolve o look inteiro,
-   aumenta ticket, e encaixa direto na dor de "não tenho tempo de pensar no look".
+3. **Macacão e vestido** são as peças de maior valor por roteiro. Resolvem o look
+   inteiro, encaixam direto na dor de "não tenho tempo de pensar no que vestir" e
+   são o que mais vende na loja hoje (três macacões entre os seis primeiros da
+   vitrine de mais vendidos, e 12 vestidos entre os 40 primeiros).
 4. Frete e prazo aparecem entre os fatores decisivos de compra online no Brasil.
    Quando houver vantagem real (mesmo dia na Grande SP), ela vale menção no CTA.
+
+## O que já está confirmado
+
+- [x] Faixa de preço e distribuição do catálogo — `08-catalogo.md`
+- [x] Composição de tecido das peças principais — `catalogo-swisz.json`
+- [x] Grade de tamanhos publicada (P–GG, PP em parte, tamanho único 36/42)
+- [x] Ordenação de mais vendidos da própria vitrine
+- [x] Condições comerciais (frete, parcelamento, Pix, prazo)
 
 ## Lacunas — preencher com a cliente
 
 Estas informações não foram confirmadas. **Não presuma nenhuma delas.**
 
-- [ ] Faixa de preço e ticket médio
-- [ ] Peças campeãs de venda e de devolução
-- [ ] Composição de tecido das peças principais
-- [ ] Grade de tamanhos e política de modelagem
+- [ ] Venda e faturamento real por peça, e ticket médio da loja
+- [ ] Taxa e motivo de devolução por peça
+- [ ] Tabela de medidas de corpo (busto, cintura, quadril) por tamanho
 - [ ] Perfil demográfico real da base (idade, região, recompra)
-- [ ] Coleção vigente e próximos lançamentos
+- [ ] Coleção vigente e calendário de lançamento do Verão 26/27
+- [ ] Se a linha Brasil (Copa 2026) segue em campanha depois do evento
 - [ ] Relação com o domínio swissboutique.com.br (marca irmã? domínio antigo?)
 - [ ] Tom de voz atual e o que a marca já decidiu que não fala
 - [ ] Desempenho histórico do @swiszoficial (ver `07-aprendizado.md`)

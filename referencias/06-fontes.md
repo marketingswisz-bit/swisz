@@ -58,10 +58,22 @@ Use para repertório e nomenclatura. Não use como fonte de dado de mercado.
 5. **Se a fonte estiver bloqueada** (paywall, login, restrição de rede), informe
    qual é e o que ela traria. Não complete a lacuna por dedução.
 
-## Limitação conhecida deste ambiente
+## Fonte interna: a própria loja
 
-O acesso de rede desta sessão é restrito por política da organização. Busca web
-funciona; **acesso direto a sites (incluindo swisz.com.br, instagram.com e
-wgsn.com) está bloqueado.** Isso significa que catálogo, preço e métricas do
-perfil precisam ser fornecidos manualmente. Registre em `00-marca.md` e
-`07-aprendizado.md` o que for recebido.
+`swisz.com.br` é fonte primária e está acessível. A vitrine ordenada por mais
+vendidos (`/produtos/?sort_by=best-selling`) dá a ordem comercial real das peças,
+e cada ficha traz tecido, composição, grade e comprimento. O levantamento de
+15/09/2026 está congelado em `08-catalogo.md` e `catalogo-swisz.json`.
+
+**Revalidar o catálogo a cada troca de coleção**, porque preço, estoque e ranking
+mudam. Quando revalidar, atualize os dois arquivos e registre em `07-aprendizado.md`.
+
+## Limitação conhecida
+
+**Instagram exige login.** Perfil, posts e qualquer métrica do @swiszoficial são
+inacessíveis sem autenticação — a API pública responde `require_login` e a página
+do perfil devolve página de erro. Métrica de performance (alcance, retenção,
+sends, salvamento) só existe dentro do Instagram Insights da conta.
+
+Isso não se resolve com pesquisa. Precisa ser fornecido pela cliente. Ver a lista
+do que pedir em `07-aprendizado.md`. **Nunca estime número de performance.**

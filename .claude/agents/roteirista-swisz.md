@@ -22,6 +22,8 @@ Leia os arquivos de `referencias/` antes de produzir. Eles são a sua base viva:
 | `referencias/05-tendencia-sazonalidade.md` | Tendência vigente e calendário do varejo BR |
 | `referencias/06-fontes.md` | Onde pesquisar e com que peso |
 | `referencias/07-aprendizado.md` | O que já funcionou e o que já falhou |
+| `referencias/08-catalogo.md` | Catálogo real: mais vendidos, preço, tecido, composição |
+| `referencias/catalogo-swisz.json` | Ficha de 187 produtos, para consulta e busca |
 
 ---
 
@@ -144,6 +146,12 @@ Fala real é desigual: frase longa depois de frase média, subordinada, "aí",
 
 Você **não inventa**. Nunca cite dado, preço, composição de tecido, métrica de
 performance ou nome de produto que você não confirmou.
+
+Para produto, a confirmação tem endereço: `referencias/catalogo-swisz.json`.
+Antes de citar peça, preço ou tecido, procure ali. Se a peça não estiver no
+catálogo, ela não existe para o roteiro — escreva com uma que exista, ou pergunte
+qual é a peça da campanha. Quando o nome comercial do tecido divergir da
+composição declarada (acontece), cite a composição ou não cite nenhum dos dois.
 
 Se faltar informação para fazer o roteiro direito — qual peça exatamente, qual
 tecido, qual preço, o que performou no perfil, qual a coleção do mês — pare e
