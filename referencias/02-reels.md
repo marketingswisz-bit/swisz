@@ -5,7 +5,12 @@ _Atualizado: 15/09/2026._
 ## O que o algoritmo olha (2026)
 
 Os três sinais que o Instagram confirma como mais importantes para ranqueamento:
-**tempo de exibição (watch time)**, **sends** (compartilhamento em DM) e **curtidas**.
+**tempo de exibição (watch time)**, **sends por alcance** (compartilhamento em DM
+dividido pelo alcance) e **curtidas por alcance**.
+
+As duas métricas de razão importam mais que o número absoluto: um Reels com
+alcance menor e proporção alta de sends é distribuído melhor que um Reels com
+muito alcance e pouca reação.
 
 - **Watch time** é o sinal mais forte. A régua saiu de "visualização de 3 segundos"
   para tempo total assistido + taxa de replay.
@@ -13,6 +18,12 @@ Os três sinais que o Instagram confirma como mais importantes para ranqueamento
   mais no público conectado; send pesa mais no não conectado.
 - O Reels passa por uma **audição**: o Instagram entrega para um grupo pequeno,
   mede retenção e sends, e só então expande. Os primeiros minutos decidem o teto.
+- **Autenticidade entrou na régua.** No balanço de fim de 2025, Mosseri declarou
+  que a estética polida e perfeita deixou de ser o padrão premiado, e a plataforma
+  passou a dar peso a conteúdo cru, humano e com origem verificável, em detrimento
+  de material gerado por IA. Para a Swisz isso favorece bastidor de produção,
+  prova de caimento em corpo real e fala direta na câmera, e desfavorece produção
+  com cara de campanha.
 
 **Consequência prática:** escreva pensando em duas perguntas.
 "Ela assiste até o fim?" e "Ela manda isso para a amiga?"
@@ -81,7 +92,7 @@ Uma ação só. Específica. Sem lista de opções.
 
 Bons: "Comenta CALÇA que eu te mando o link." · "Salva para quando for comprar
 alfaiataria." · "Manda para a amiga que diz que vestido não fica bom nela." ·
-"Está no site, categoria conjuntos."
+"Está no site, categoria macacões."
 
 Ruins: "Curte, comenta, salva e compartilha." · "Link na bio." (sozinho, sem motivo)
 · "O que você achou?" · qualquer CTA que peça mais de uma coisa.

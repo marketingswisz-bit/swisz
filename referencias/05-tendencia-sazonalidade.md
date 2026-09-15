@@ -26,8 +26,14 @@ moda brasileiro roda assim:
 sobreposição leve, cor clara voltando, e prepara o terreno para o verão. Em
 novembro e dezembro, a linha Cheers manda no conteúdo.
 
-Datas comerciais próximas: Dia do Cliente (15/09), início da Primavera (22/09),
-Dia das Crianças (12/10), Black Friday (novembro), Natal.
+Datas comerciais próximas, com data confirmada: Dia do Cliente (15/09), início da
+Primavera (22/09), Dia das Crianças (12/10/2026, segunda-feira, feriado
+emendado), **Black Friday em 27/11/2026 (sexta)**, Natal em 25/12/2026 (sexta).
+O corte de pedido com entrega garantida antes do Natal costuma cair entre 18 e 20
+de dezembro — confirmar o prazo real da Swisz antes de usar em CTA.
+
+Planejamento de conteúdo: pauta de Black Friday começa a ser construída em
+outubro, não em novembro. Pauta de Cheers e Alto Verão entra junto.
 
 ## Tendências vigentes — P/V 26 e 26/27
 
@@ -51,6 +57,16 @@ Dia das Crianças (12/10), Black Friday (novembro), Natal.
 - **Texturas** — design conduzido por tato, não por novidade.
 - Eixo comum: individualidade, experimentação, moda que volta a ser divertida.
 
+**Horizonte seguinte — P/V 27 (para não pautar tendência vencida):**
+- Cartela com azul royal e laranja forte ao lado de lilás rosado, cáqui
+  esverdeado e marrom aterrado. Luminous Blue é a cor do ano 2027 de WGSN/Coloro.
+- Estampa volta a ganhar espaço sobre o minimalismo: paisley em revival e releitura
+  de pele animal.
+- Estética de feitura lenta, artesanal, e um humor mais brincalhão que o do inverno.
+
+Trate P/V 27 como leitura de horizonte, não como pauta de venda. A Swisz vende
+hoje o que está no estoque de Primavera/Verão 26/27.
+
 ## Como traduzir tendência para a cliente da Swisz
 
 Tendência de passarela chega diluída no varejo. Seu trabalho é entregar a **dose
@@ -60,7 +76,8 @@ Exemplos de tradução:
 
 - **Skirt suit** → conjunto de blazer e saia em alfaiataria com elastano. Blazer
   sozinho com calça na segunda; conjunto completo na reunião de quinta. Duas
-  peças, quatro combinações.
+  peças, quatro combinações. **Antes de pautar, confira em `08-catalogo.md` se a
+  Swisz tem a peça** — hoje a loja tem só duas fichas em conjuntos.
 - **Estética pijama** → conjunto de camisa e calça em viscose. Parece arrumado,
   veste como pijama. A peça que mais resolve a segunda de manhã.
 - **Glamoratti** → não é a mulher de ombreira inteira. É o blazer de ombro
@@ -76,7 +93,8 @@ antes de virar pauta. Setembro em Milão é outono; setembro aqui é primavera.
 ## Perguntas de filtro antes de transformar tendência em roteiro
 
 1. Ela usaria isso numa terça-feira normal?
-2. A Swisz tem uma peça que entrega essa versão?
+2. A Swisz tem uma peça que entrega essa versão? (confira em `08-catalogo.md` ou
+   em `catalogo-swisz.json`, pelo nome e pela composição)
 3. Funciona em corpo que não é de manequim?
 4. Quanto tempo ela precisa gastar para montar esse look? (mais de 5 minutos = não)
 5. A peça aguenta lavagem de rotina?

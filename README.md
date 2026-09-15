@@ -27,6 +27,8 @@ referencias/
   05-tendencia-sazonalidade.md       P/V 26/27 e calendário do varejo BR
   06-fontes.md                       onde pesquisar e com que peso
   07-aprendizado.md                  log vivo de hipóteses e resultados
+  08-catalogo.md                     catálogo real: mais vendidos, preço, tecido
+  catalogo-swisz.json                ficha de 187 produtos, para consulta
 ```
 
 ## Regras que definem o agente
@@ -44,9 +46,19 @@ referencias/
 - Se aperfeiçoa: pesquisa fontes de moda, comportamento e consumo, e registra
   aprendizado em `referencias/07-aprendizado.md`.
 
+## Base de dados da loja
+
+O catálogo de swisz.com.br foi levantado em 15/09/2026: 187 fichas com nome,
+preço, SKU, tecido, composição, grade, comprimento, estoque e posição na vitrine
+de mais vendidos. O agente consulta esses arquivos antes de citar qualquer peça.
+
+Revalidar a cada troca de coleção.
+
 ## Pendências
 
-O agente está operacional, mas calibrado com benchmark de mercado.
-Ver `referencias/07-aprendizado.md` para a lista do que é preciso fornecer —
-principalmente a exportação do Instagram Insights do @swiszoficial e o catálogo
-com preço e composição de tecido.
+Falta o desempenho do @swiszoficial. O Instagram exige login, então nenhuma
+pesquisa resolve isso — a exportação do Insights precisa vir da cliente. A lista
+do que pedir está em `referencias/07-aprendizado.md`.
+
+Também faltam devolução por peça, tabela de medidas de corpo e calendário de
+lançamento do Verão 26/27.
